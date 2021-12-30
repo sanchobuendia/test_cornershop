@@ -1,1373 +1,281 @@
-"","ADM3_ES","ADM2_ES","ADM1_ES","X2019.10.17","X2019.10.18","X2019.10.19","X2019.10.20","X2019.10.21"
-"1","Iquique","Iquique","Región de Tarapacá",3.60608100891113e-05,3.32395247824024e-05,3.05970497720409e-05,2.73585319519043e-05,2.81532611552393e-05
-"2","Iquique","Iquique","Región de Tarapacá",3.80873680114746e-05,3.49680594808888e-05,3.23851891153026e-05,2.8868516892544e-05,2.94645633402979e-05
-"3","Alto Hospicio","Iquique","Región de Tarapacá",3.97364310344983e-08,0,1.98682155172492e-08,0,0
-"4","Tocopilla","Tamarugal","Región de Tarapacá",0,4.76837158203125e-07,0,0,0
-"5","Tocopilla","Tamarugal","Región de Tarapacá",0,6.91413879394531e-06,3.93390655517578e-06,0,0
-"6","Tocopilla","Tamarugal","Región de Tarapacá",0,0,1.98682155172492e-08,0,3.97364310344983e-08
-"7","Tocopilla","Tamarugal","Región de Tarapacá",0,0,0,0,0
-"8","Tocopilla","Tamarugal","Región de Tarapacá",5.96046447753906e-08,0,5.96046447753906e-08,0,0
-"9","Tocopilla","Tamarugal","Región de Tarapacá",0,0,0,0,0
-"10","Tocopilla","Tamarugal","Región de Tarapacá",0,0,0,0,0
-"11","Tocopilla","Tamarugal","Región de Tarapacá",9.33806120428926e-07,1.09275185877777e-06,9.33806120428926e-07,7.54992186102754e-07,7.94728578057402e-07
-"12","Tocopilla","Tamarugal","Región de Tarapacá",0,0,0,0,0
-"13","Tocopilla","Tamarugal","Región de Tarapacá",0,0,0,0,0
-"14","Tocopilla","Tamarugal","Región de Tarapacá",0,0,0,0,0
-"15","Tocopilla","Tamarugal","Región de Tarapacá",0,0,5.96046447753906e-08,0,0
-"16","Tocopilla","Tamarugal","Región de Tarapacá",0,1.98682155172492e-08,3.97364310344983e-08,0,0
-"17","Tocopilla","Tamarugal","Región de Tarapacá",0,0,0,0,0
-"18","Tocopilla","Tamarugal","Región de Tarapacá",0,0,0,0,0
-"19","Tocopilla","Tamarugal","Región de Tarapacá",0,1.37090682983398e-06,5.16573607001192e-07,0,0
-"20","Tocopilla","Tamarugal","Región de Tarapacá",0,1.98682155172492e-08,5.96046447753906e-08,3.97364310344983e-08,1.98682155172492e-08
-"21","Tocopilla","Tamarugal","Región de Tarapacá",0,0,0,0,0
-"22","Tocopilla","Tamarugal","Región de Tarapacá",0,0,0,0,0
-"23","Tocopilla","Tamarugal","Región de Tarapacá",0,0,3.97364310344983e-08,0,0
-"24","Tocopilla","Tamarugal","Región de Tarapacá",0,0,0,0,0
-"25","Camiña","Tamarugal","Región de Tarapacá",0,1.70270595845068e-05,0,0,0
-"26","Camiña","Tamarugal","Región de Tarapacá",0,1.01923942565918e-05,6.67572021484375e-06,0,0
-"27","Camiña","Tamarugal","Región de Tarapacá",0,2.32458114624023e-06,0,0,0
-"28","Colchane","Tamarugal","Región de Tarapacá",0,3.53654218088195e-06,4.96308020956349e-05,0,0
-"29","Colchane","Tamarugal","Región de Tarapacá",0,2.54313158620789e-06,2.47756634053076e-05,0,0
-"30","Colchane","Tamarugal","Región de Tarapacá",0,9.37779714149656e-06,2.61465702351416e-05,0,0
-"31","Colchane","Tamarugal","Región de Tarapacá",0,1.66893005371094e-06,1.25567121358472e-05,0,0
-"32","Colchane","Tamarugal","Región de Tarapacá",0,3.3775964425331e-07,1.9073486328125e-05,0,0
-"33","Colchane","Tamarugal","Región de Tarapacá",0,2.02655792236328e-06,1.53779983520508e-05,0,0
-"34","Colchane","Tamarugal","Región de Tarapacá",0,3.61601519216492e-06,1.14639597086352e-05,0,0
-"35","Huara","Tamarugal","Región de Tarapacá",5.51740340597462e-05,5.39024658792187e-05,5.02665825479198e-05,6.10152892477345e-05,4.22795601480175e-05
-"36","Huara","Tamarugal","Región de Tarapacá",1.19209289550781e-07,1.27156579310395e-06,2.18550368913384e-07,1.19209289550781e-07,4.76837158203125e-07
-"37","Huara","Tamarugal","Región de Tarapacá",0,0,0,0,0
-"38","Huara","Tamarugal","Región de Tarapacá",0,2.38418579101562e-07,2.62260437011719e-06,0,1.98682155172492e-08
-"39","Huara","Tamarugal","Región de Tarapacá",0,8.34465026855469e-07,1.98682155172492e-08,0,0
-"40","Huara","Tamarugal","Región de Tarapacá",0,4.74850321552367e-06,0,0,0
-"41","Huara","Tamarugal","Región de Tarapacá",0,1.19209289550781e-07,3.97364289028701e-07,0,0
-"42","Huara","Tamarugal","Región de Tarapacá",0,5.5630999895584e-07,3.55641054738953e-06,0,0
-"43","Huara","Tamarugal","Región de Tarapacá",0,1.35103857701324e-06,0,0,0
-"44","Huara","Tamarugal","Región de Tarapacá",0,1.66893005371094e-06,0,0,0
-"45","Huara","Tamarugal","Región de Tarapacá",0,5.88099146625609e-06,5.30481338500977e-06,0,0
-"46","Huara","Tamarugal","Región de Tarapacá",3.97364310344983e-08,3.97364310344983e-08,7.94728620689966e-08,0,0
-"47","Huara","Tamarugal","Región de Tarapacá",0,1.58945724137993e-07,1.54972076416016e-06,0,7.94728620689966e-08
-"48","Huara","Tamarugal","Región de Tarapacá",0,5.16573607001192e-07,0,0,0
-"49","Pica","Tamarugal","Región de Tarapacá",0,1.04904174804688e-05,1.33911771627027e-05,0,0
-"50","Pica","Tamarugal","Región de Tarapacá",0,0,0,0,0
-"51","Pica","Tamarugal","Región de Tarapacá",0,7.62939453125e-06,1.31130218505859e-06,0,0
-"52","Pica","Tamarugal","Región de Tarapacá",0,1.11262006612378e-05,9.31819249672117e-06,0,0
-"53","Pica","Tamarugal","Región de Tarapacá",0,0,0,0,0
-"54","Pica","Tamarugal","Región de Tarapacá",0,6.15914677837281e-06,8.34465026855469e-07,0,0
-"55","Pica","Tamarugal","Región de Tarapacá",0,1.54972076416016e-05,2.38418579101562e-06,0,0
-"56","Pica","Tamarugal","Región de Tarapacá",0,1.14043550638598e-05,2.54313158620789e-06,0,0
-"57","Pica","Tamarugal","Región de Tarapacá",0,8.50359629112063e-06,3.67561983694031e-06,0,0
-"58","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"59","Antofagasta","Antofagasta","Región de Antofagasta",1.05301535313629e-06,9.13937867608183e-07,4.33127070209594e-06,2.70207715402648e-06,5.96046447753906e-07
-"60","Antofagasta","Antofagasta","Región de Antofagasta",1.17222464268707e-06,9.33806120428926e-07,5.86112355449586e-06,3.45706939697266e-06,5.76178251776582e-07
-"61","Antofagasta","Antofagasta","Región de Antofagasta",1.98682155172492e-08,0,7.94728620689966e-08,0,0
-"62","Antofagasta","Antofagasta","Región de Antofagasta",0,0,3.97364310344983e-08,0,0
-"63","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"64","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"65","Antofagasta","Antofagasta","Región de Antofagasta",6.95387541327364e-07,5.5630999895584e-07,5.88099146625609e-06,2.10603070627258e-06,4.17232513427734e-07
-"66","Antofagasta","Antofagasta","Región de Antofagasta",6.95387541327364e-07,5.16573607001192e-07,3.61601519216492e-06,2.10603070627258e-06,4.17232513427734e-07
-"67","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"68","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"69","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"70","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"71","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"72","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"73","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"74","Antofagasta","Antofagasta","Región de Antofagasta",0,1.19209289550781e-07,4.33127070209594e-06,0,0
-"75","Antofagasta","Antofagasta","Región de Antofagasta",0,0,7.74860382080078e-07,0,0
-"76","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"77","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"78","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"79","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"80","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"81","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"82","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"83","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,3.75509262084961e-06,0
-"84","Antofagasta","Antofagasta","Región de Antofagasta",0,5.96046447753906e-08,1.86761224085785e-06,0,0
-"85","Antofagasta","Antofagasta","Región de Antofagasta",0,0,7.74860382080078e-07,0,0
-"86","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"87","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"88","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"89","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"90","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"91","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"92","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,1.19209289550781e-07,0
-"93","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"94","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"95","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"96","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"97","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,1.19209289550781e-07,0
-"98","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"99","Antofagasta","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"100","Mejillones","Antofagasta","Región de Antofagasta",5.96046447753906e-08,1.94708513845399e-06,1.01327896118164e-06,0,1.98682144514351e-07
-"101","Mejillones","Antofagasta","Región de Antofagasta",2.98023223876953e-06,6.75519322612672e-06,1.00135803222656e-05,1.5695890169809e-06,7.35123933282011e-07
-"102","Mejillones","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"103","Mejillones","Antofagasta","Región de Antofagasta",3.97364310344983e-08,4.56968933804092e-07,9.73542569226993e-07,3.97364289028701e-07,2.18550368913384e-07
-"104","Mejillones","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"105","Mejillones","Antofagasta","Región de Antofagasta",1.35103857701324e-06,3.79482912649109e-06,5.04652643940062e-06,2.98023223876953e-06,1.80800759608246e-06
-"106","Mejillones","Antofagasta","Región de Antofagasta",3.97364310344983e-08,4.17232513427734e-07,9.33806120428926e-07,3.97364289028701e-07,2.18550368913384e-07
-"107","Sierra Gorda","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"108","Sierra Gorda","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"109","Sierra Gorda","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"110","Sierra Gorda","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"111","Sierra Gorda","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"112","Sierra Gorda","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"113","Sierra Gorda","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"114","Sierra Gorda","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"115","Sierra Gorda","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"116","Sierra Gorda","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"117","Sierra Gorda","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"118","Sierra Gorda","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"119","Sierra Gorda","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"120","Sierra Gorda","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"121","Sierra Gorda","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"122","Sierra Gorda","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"123","Sierra Gorda","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"124","Sierra Gorda","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"125","Sierra Gorda","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"126","Taltal","Antofagasta","Región de Antofagasta",0,0,2.58286803500596e-07,3.97364310344983e-08,0
-"127","Taltal","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"128","Taltal","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"129","Taltal","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"130","Taltal","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"131","Taltal","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"132","Taltal","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"133","Taltal","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"134","Taltal","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"135","Taltal","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"136","Taltal","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"137","Taltal","Antofagasta","Región de Antofagasta",0,0,3.97364310344983e-08,0,0
-"138","Taltal","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"139","Taltal","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"140","Taltal","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"141","Taltal","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"142","Taltal","Antofagasta","Región de Antofagasta",0,0,7.94728620689966e-08,0,0
-"143","Taltal","Antofagasta","Región de Antofagasta",0,0,1.58945724137993e-07,0,0
-"144","Taltal","Antofagasta","Región de Antofagasta",0,0,3.97364310344983e-08,0,0
-"145","Taltal","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"146","Taltal","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"147","Taltal","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"148","Taltal","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"149","Taltal","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"150","Taltal","Antofagasta","Región de Antofagasta",0,0,5.96046447753906e-08,0,0
-"151","Taltal","Antofagasta","Región de Antofagasta",0,0,1.98682155172492e-08,0,0
-"152","Taltal","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"153","Taltal","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"154","Taltal","Antofagasta","Región de Antofagasta",0,0,0,0,0
-"155","Calama","El Loa","Región de Antofagasta",0,7.94728620689966e-08,1.9073486328125e-06,0,0
-"156","Calama","El Loa","Región de Antofagasta",0,1.17222464268707e-06,6.33796071269899e-06,0,0
-"157","Calama","El Loa","Región de Antofagasta",0,0,1.78813934326172e-07,0,0
-"158","Calama","El Loa","Región de Antofagasta",0,0,1.98682155172492e-08,0,0
-"159","Calama","El Loa","Región de Antofagasta",0,0,3.77496093051377e-07,0,0
-"160","Calama","El Loa","Región de Antofagasta",0,0,0,0,0
-"161","Calama","El Loa","Región de Antofagasta",0,0,0,0,0
-"162","Calama","El Loa","Región de Antofagasta",0,0,1.19209289550781e-07,0,0
-"163","Calama","El Loa","Región de Antofagasta",0,0,2.08616256713867e-06,0,0
-"164","Calama","El Loa","Región de Antofagasta",0,0,0,0,0
-"165","Calama","El Loa","Región de Antofagasta",0,0,0,0,0
-"166","Calama","El Loa","Región de Antofagasta",0,0,0,0,0
-"167","Calama","El Loa","Región de Antofagasta",0,0,1.05301535313629e-06,0,0
-"168","Calama","El Loa","Región de Antofagasta",0,0,9.5367431640625e-06,0,0
-"169","Calama","El Loa","Región de Antofagasta",0,0,0,0,0
-"170","Calama","El Loa","Región de Antofagasta",0,0,0,0,0
-"171","Calama","El Loa","Región de Antofagasta",0,0,0,1.58945724137993e-07,0
-"172","Calama","El Loa","Región de Antofagasta",0,0,0,0,0
-"173","Calama","El Loa","Región de Antofagasta",0,0,0,0,0
-"174","Calama","El Loa","Región de Antofagasta",0,0,0,2.38418579101562e-07,0
-"175","Calama","El Loa","Región de Antofagasta",0,0,0,0,0
-"176","Ollagüe","El Loa","Región de Antofagasta",0,1.1583168998186e-05,6.41743326923461e-06,0,0
-"177","Ollagüe","El Loa","Región de Antofagasta",0,4.76837158203125e-07,3.65575147043273e-06,0,0
-"178","Ollagüe","El Loa","Región de Antofagasta",0,0,1.70866644566559e-06,0,0
-"179","Ollagüe","El Loa","Región de Antofagasta",0,0,2.70207715402648e-06,0,0
-"180","Ollagüe","El Loa","Región de Antofagasta",0,0,4.5696892811975e-06,0,0
-"181","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,7.76847173256101e-06,0,0
-"182","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,0,0,0
-"183","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,3.19878267873719e-06,0,0
-"184","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,0,0,0
-"185","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,0,0,0
-"186","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,3.3775964425331e-07,0,0
-"187","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,8.74201475653535e-07,0,0
-"188","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,2.72194552053406e-06,0,0
-"189","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,1.27156579310395e-06,0,0
-"190","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,1.47024786656402e-06,0,0
-"191","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,0,0,0
-"192","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,0,0,0
-"193","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,0,0,0
-"194","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,1.19209289550781e-07,0,0
-"195","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,8.34465026855469e-07,0,0
-"196","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,1.58945724137993e-07,0,0
-"197","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,0,0,0
-"198","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,0,0,0
-"199","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,0,0,0
-"200","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,0,0,0
-"201","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,1.3907749973896e-07,0,0
-"202","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,0,0,0
-"203","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,0,0,0
-"204","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,0,0,0
-"205","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,0,0,0
-"206","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,0,0,0
-"207","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,3.97364310344983e-08,0,0
-"208","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,0,0,0
-"209","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,0,3.97364310344983e-08,0
-"210","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,0,1.58945724137993e-07,0
-"211","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,0,3.77496093051377e-07,0
-"212","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,0,3.97364310344983e-08,0
-"213","San Pedro de Atacama","El Loa","Región de Antofagasta",0,0,0,5.04652643940062e-06,0
-"214","Tocopilla","Tocopilla","Región de Antofagasta",2.87493076029932e-05,4.36305999755859e-05,3.71734313375782e-05,3.80277633666992e-05,2.74181365966797e-05
-"215","Tocopilla","Tocopilla","Región de Antofagasta",7.09295272827148e-06,1.827875712479e-05,1.61528587341309e-05,8.94069671630859e-06,1.04308128356934e-05
-"216","Tocopilla","Tocopilla","Región de Antofagasta",6.17901469013304e-06,1.6351541489712e-05,1.44441919474048e-05,7.72873590904055e-06,9.17911529541016e-06
-"217","Tocopilla","Tocopilla","Región de Antofagasta",7.94728620689966e-08,1.96695327758789e-06,1.03314721400238e-06,0,1.98682144514351e-07
-"218","María Elena","Tocopilla","Región de Antofagasta",0,0,3.97364310344983e-08,0,0
-"219","María Elena","Tocopilla","Región de Antofagasta",0,0,0,0,0
-"220","María Elena","Tocopilla","Región de Antofagasta",0,0,1.98682155172492e-08,0,0
-"221","María Elena","Tocopilla","Región de Antofagasta",0,0,0,0,0
-"222","María Elena","Tocopilla","Región de Antofagasta",0,0,0,0,0
-"223","María Elena","Tocopilla","Región de Antofagasta",0,0,0,0,0
-"224","María Elena","Tocopilla","Región de Antofagasta",0,0,1.98682155172492e-08,0,0
-"225","María Elena","Tocopilla","Región de Antofagasta",0,0,0,0,0
-"226","María Elena","Tocopilla","Región de Antofagasta",0,0,0,0,0
-"227","María Elena","Tocopilla","Región de Antofagasta",0,0,0,0,0
-"228","María Elena","Tocopilla","Región de Antofagasta",0,0,0,0,0
-"229","María Elena","Tocopilla","Región de Antofagasta",0,0,0,0,0
-"230","María Elena","Tocopilla","Región de Antofagasta",0,0,0,0,0
-"231","María Elena","Tocopilla","Región de Antofagasta",0,0,0,0,0
-"232","María Elena","Tocopilla","Región de Antofagasta",0,0,0,0,0
-"233","María Elena","Tocopilla","Región de Antofagasta",0,0,0,0,0
-"234","María Elena","Tocopilla","Región de Antofagasta",0,0,0,0,0
-"235","María Elena","Tocopilla","Región de Antofagasta",0,0,0,0,0
-"236","Copiapó","Copiapó","Región de Atacama",0,0,0,7.21216201782227e-06,0
-"237","Copiapó","Copiapó","Región de Atacama",0,0,0,4.32133674621582e-05,0
-"238","Copiapó","Copiapó","Región de Atacama",0,0,0,0,0
-"239","Copiapó","Copiapó","Región de Atacama",0,0,0,0,0
-"240","Copiapó","Copiapó","Región de Atacama",0,0,0,0,0
-"241","Copiapó","Copiapó","Región de Atacama",0,0,0,2.11795177165186e-05,0
-"242","Copiapó","Copiapó","Región de Atacama",0,0,0,5.80549240112305e-05,0
-"243","Copiapó","Copiapó","Región de Atacama",0,0,0,0.000108679138065781,0
-"244","Copiapó","Copiapó","Región de Atacama",2.16563535104797e-06,0,7.94728620689966e-08,9.04202461242676e-05,0
-"245","Copiapó","Copiapó","Región de Atacama",1.80800759608246e-06,0,3.97364310344983e-08,4.39882278442383e-05,0
-"246","Copiapó","Copiapó","Región de Atacama",0,1.98682155172492e-08,7.94728620689966e-08,0,0
-"247","Copiapó","Copiapó","Región de Atacama",0,0,0,0,0
-"248","Copiapó","Copiapó","Región de Atacama",0,0,0,0,0
-"249","Copiapó","Copiapó","Región de Atacama",0,0,0,1.21593475341797e-05,0
-"250","Copiapó","Copiapó","Región de Atacama",0,0,0,3.32991294271778e-05,0
-"251","Copiapó","Copiapó","Región de Atacama",0,0,0,0.000179986163857393,0
-"252","Copiapó","Copiapó","Región de Atacama",0,1.98682155172492e-08,1.98682144514351e-07,0,0
-"253","Copiapó","Copiapó","Región de Atacama",0,0,0,1.54972076416016e-06,0
-"254","Copiapó","Copiapó","Región de Atacama",0,0,0,1.45832700582105e-05,0
-"255","Copiapó","Copiapó","Región de Atacama",5.96046447753906e-08,0,1.98682155172492e-08,0.000184178352355957,0
-"256","Copiapó","Copiapó","Región de Atacama",8.14596830878145e-07,2.7815499947792e-07,9.33806120428926e-07,0,7.94728620689966e-08
-"257","Copiapó","Copiapó","Región de Atacama",0,0,2.58286803500596e-07,0,0
-"258","Copiapó","Copiapó","Región de Atacama",1.98682155172492e-08,0,5.76178251776582e-07,0,0
-"259","Copiapó","Copiapó","Región de Atacama",0,0,2.18550368913384e-07,0,0
-"260","Copiapó","Copiapó","Región de Atacama",0,0,2.18550368913384e-07,0,0
-"261","Copiapó","Copiapó","Región de Atacama",0,0,0,0,0
-"262","Caldera","Copiapó","Región de Atacama",0,0,0,0,0
-"263","Caldera","Copiapó","Región de Atacama",9.93410722571753e-08,1.82787573521637e-06,5.54323196411133e-06,2.38418579101562e-07,5.36441802978516e-07
-"264","Caldera","Copiapó","Región de Atacama",0,0,0,0,0
-"265","Caldera","Copiapó","Región de Atacama",0,0,5.96046447753906e-08,0,0
-"266","Caldera","Copiapó","Región de Atacama",0,0,1.98682155172492e-08,0,0
-"267","Caldera","Copiapó","Región de Atacama",0,0,9.93410722571753e-08,0,0
-"268","Tierra Amarilla","Copiapó","Región de Atacama",0,0,0,0.000102639198303223,0
-"269","Tierra Amarilla","Copiapó","Región de Atacama",0,0,3.97364310344983e-08,0,0
-"270","Tierra Amarilla","Copiapó","Región de Atacama",0,0,3.97364310344983e-08,6.11146315350197e-05,0
-"271","Tierra Amarilla","Copiapó","Región de Atacama",0,0,0,0.000135262802359648,0
-"272","Tierra Amarilla","Copiapó","Región de Atacama",0,0,0,0,0
-"273","Tierra Amarilla","Copiapó","Región de Atacama",0,0,0,2.22523999582336e-06,0
-"274","Tierra Amarilla","Copiapó","Región de Atacama",0,0,1.27553939819336e-05,6.25054017291404e-05,0
-"275","Tierra Amarilla","Copiapó","Región de Atacama",0,0,4.07298421123414e-06,0.000104983650089707,0
-"276","Tierra Amarilla","Copiapó","Región de Atacama",0,0,3.57627868652344e-07,0.000124911472084932,0
-"277","Tierra Amarilla","Copiapó","Región de Atacama",0,0,0,0,0
-"278","Tierra Amarilla","Copiapó","Región de Atacama",0,0,3.33388634317089e-05,0.000111202396510635,0
-"279","Tierra Amarilla","Copiapó","Región de Atacama",0,0,2.0722547560581e-05,0.000161091491463594,0
-"280","Tierra Amarilla","Copiapó","Región de Atacama",0,0,0,0,0
-"281","Tierra Amarilla","Copiapó","Región de Atacama",0,0,0,1.95701923075831e-05,0
-"282","Tierra Amarilla","Copiapó","Región de Atacama",2.7815499947792e-07,0,6.95387541327364e-07,9.6738338470459e-05,0
-"283","Tierra Amarilla","Copiapó","Región de Atacama",0,0,0,5.5630999895584e-07,0
-"284","Tierra Amarilla","Copiapó","Región de Atacama",2.7815499947792e-07,0,7.74860382080078e-07,2.08218898478663e-05,0
-"285","Chañaral","Chañaral","Región de Atacama",0,0,5.96046447753906e-08,0,0
-"286","Chañaral","Chañaral","Región de Atacama",0,0,5.36441802978516e-07,0,0
-"287","Chañaral","Chañaral","Región de Atacama",0,0,2.7815499947792e-07,0,0
-"288","Chañaral","Chañaral","Región de Atacama",0,0,5.96046447753906e-08,0,0
-"289","Chañaral","Chañaral","Región de Atacama",3.97364310344983e-08,0,3.97364310344983e-08,1.19209289550781e-07,0
-"290","Chañaral","Chañaral","Región de Atacama",0,0,0,0,0
-"291","Chañaral","Chañaral","Región de Atacama",0,0,0,0,0
-"292","Chañaral","Chañaral","Región de Atacama",0,0,0,0,0
-"293","Diego de Almagro","Chañaral","Región de Atacama",0,0,0,0,0
-"294","Diego de Almagro","Chañaral","Región de Atacama",0,0,0,0,0
-"295","Diego de Almagro","Chañaral","Región de Atacama",0,0,0,0,0
-"296","Diego de Almagro","Chañaral","Región de Atacama",0,0,0,0,0
-"297","Diego de Almagro","Chañaral","Región de Atacama",0,0,3.97364310344983e-08,0,0
-"298","Diego de Almagro","Chañaral","Región de Atacama",0,0,0,0,0
-"299","Diego de Almagro","Chañaral","Región de Atacama",0,0,0,0,0
-"300","Diego de Almagro","Chañaral","Región de Atacama",0,0,0,0,0
-"301","Diego de Almagro","Chañaral","Región de Atacama",0,0,0,3.97364310344983e-08,0
-"302","Diego de Almagro","Chañaral","Región de Atacama",0,0,0,1.19209289550781e-07,0
-"303","Diego de Almagro","Chañaral","Región de Atacama",0,0,1.98682155172492e-08,3.97364310344983e-08,0
-"304","Diego de Almagro","Chañaral","Región de Atacama",0,0,0,0,0
-"305","Diego de Almagro","Chañaral","Región de Atacama",0,0,0,0,0
-"306","Diego de Almagro","Chañaral","Región de Atacama",0,0,0,0,0
-"307","Diego de Almagro","Chañaral","Región de Atacama",0,0,0,0,0
-"308","Diego de Almagro","Chañaral","Región de Atacama",0,0,0,4.37100737826768e-07,0
-"309","Diego de Almagro","Chañaral","Región de Atacama",0,0,0,5.76178251776582e-07,0
-"310","Diego de Almagro","Chañaral","Región de Atacama",0,0,0,0,0
-"311","Diego de Almagro","Chañaral","Región de Atacama",0,0,0,0,0
-"312","Diego de Almagro","Chañaral","Región de Atacama",0,0,0,6.51677464702516e-06,0
-"313","Diego de Almagro","Chañaral","Región de Atacama",0,0,0,1.5556812286377e-05,0
-"314","Diego de Almagro","Chañaral","Región de Atacama",0,0,0,1.19209289550781e-07,0
-"315","Diego de Almagro","Chañaral","Región de Atacama",0,0,1.98682155172492e-08,2.25702915486181e-05,0
-"316","Diego de Almagro","Chañaral","Región de Atacama",0,0,0,0,0
-"317","Diego de Almagro","Chañaral","Región de Atacama",0,0,0,0,0
-"318","Diego de Almagro","Chañaral","Región de Atacama",0,0,0,2.55703926086426e-05,0
-"319","Diego de Almagro","Chañaral","Región de Atacama",1.98682155172492e-08,0,1.98682155172492e-08,6.47306442260742e-05,0
-"320","Diego de Almagro","Chañaral","Región de Atacama",1.98682144514351e-07,0,0,1.97291374206543e-05,0
-"321","Vallenar","Huasco","Región de Atacama",3.97364310344983e-08,0,2.58286803500596e-07,0,0
-"322","Vallenar","Huasco","Región de Atacama",3.97364310344983e-08,0,2.58286803500596e-07,0,0
-"323","Vallenar","Huasco","Región de Atacama",0,0,0,0,0
-"324","Vallenar","Huasco","Región de Atacama",0,0,9.93410722571753e-08,0,0
-"325","Vallenar","Huasco","Región de Atacama",0,0,1.98682155172492e-08,0,0
-"326","Vallenar","Huasco","Región de Atacama",0,0,0,1.19209289550781e-07,0
-"327","Vallenar","Huasco","Región de Atacama",0,0,2.18550368913384e-07,0,0
-"328","Vallenar","Huasco","Región de Atacama",2.64247250925109e-06,5.96046447753906e-08,7.54992186102754e-07,3.17891448275986e-07,0
-"329","Vallenar","Huasco","Región de Atacama",2.7815499947792e-07,0,2.18550368913384e-07,0,0
-"330","Vallenar","Huasco","Región de Atacama",1.84774398803711e-06,5.96046447753906e-08,2.02655792236328e-06,2.18550368913384e-07,0
-"331","Alto del Carmen","Huasco","Región de Atacama",0,0,6.75519288506621e-07,2.7815499947792e-07,0
-"332","Alto del Carmen","Huasco","Región de Atacama",0,0,1.39077508265473e-06,7.15255737304688e-07,0
-"333","Alto del Carmen","Huasco","Región de Atacama",0,0,5.16573607001192e-07,4.23391647927929e-05,0
-"334","Alto del Carmen","Huasco","Región de Atacama",1.47024786656402e-06,0,8.14596830878145e-07,1.70071925822413e-05,0
-"335","Alto del Carmen","Huasco","Región de Atacama",0,0,5.16573607001192e-07,2.38418579101562e-07,0
-"336","Alto del Carmen","Huasco","Región de Atacama",0,0,8.94069671630859e-07,5.30481338500977e-06,0
-"337","Alto del Carmen","Huasco","Región de Atacama",0,0,1.50998437220551e-06,3.39547805197071e-05,0
-"338","Alto del Carmen","Huasco","Región de Atacama",0,0,3.77496093051377e-07,5.10613108417601e-06,0
-"339","Alto del Carmen","Huasco","Región de Atacama",3.97364310344983e-08,0,9.73542569226993e-07,1.35103864522534e-05,7.90754984336672e-06
-"340","Alto del Carmen","Huasco","Región de Atacama",3.97364310344983e-08,0,2.98023223876953e-07,3.93390655517578e-06,7.43071223041625e-06
-"341","Freirina","Huasco","Región de Atacama",0,0,2.98023223876953e-07,0,0
-"342","Freirina","Huasco","Región de Atacama",9.93410722571753e-08,0,6.1591464373123e-07,0,0
-"343","Freirina","Huasco","Región de Atacama",0,0,6.1591464373123e-07,0,0
-"344","Freirina","Huasco","Región de Atacama",3.55641054738953e-06,1.58945724137993e-07,1.23182928746246e-06,5.96046447753906e-07,0
-"345","Huasco","Huasco","Región de Atacama",0,0,9.5367431640625e-07,0,0
-"346","Huasco","Huasco","Región de Atacama",0,0,1.03314721400238e-06,3.97364310344983e-08,0
-"347","La Serena","Elqui","Región de Coquimbo",2.18550368913384e-07,1.19209289550781e-07,2.02655792236328e-06,1.72853469848633e-06,0
-"348","La Serena","Elqui","Región de Coquimbo",7.98702239990234e-06,3.97364310344983e-08,1.13844871520996e-05,1.14639597086352e-05,0
-"349","Coquimbo","Elqui","Región de Coquimbo",3.3775964425331e-07,0,2.16563535104797e-06,1.78813934326172e-07,0
-"350","Coquimbo","Elqui","Región de Coquimbo",1.78813934326172e-07,0,1.7702579498291e-05,9.89437103271484e-06,0
-"351","Coquimbo","Elqui","Región de Coquimbo",3.97364310344983e-08,0,5.16573607001192e-07,5.16573607001192e-07,0
-"352","Andacollo","Elqui","Región de Coquimbo",3.97364310344983e-08,0,1.47024786656402e-06,1.64310131367529e-05,0
-"353","La Higuera","Elqui","Región de Coquimbo",1.12454099507886e-05,2.14576721191406e-06,2.19345092773438e-05,1.58548355102539e-05,0
-"354","La Higuera","Elqui","Región de Coquimbo",5.96046447753906e-08,0,9.93410708360898e-07,0,0
-"355","La Higuera","Elqui","Región de Coquimbo",0,0,0,0,0
-"356","La Higuera","Elqui","Región de Coquimbo",8.30491353553953e-06,1.94708513845399e-06,2.00668964680517e-05,1.53183937072754e-05,0
-"357","La Higuera","Elqui","Región de Coquimbo",1.19209289550781e-07,3.97364310344983e-08,1.80800759608246e-06,1.15235650355316e-06,0
-"358","La Higuera","Elqui","Región de Coquimbo",1.48415565490723e-05,0,1.35103857701324e-06,8.14596830878145e-07,0
-"359","Paihuano","Elqui","Región de Coquimbo",0.000103433929325547,4.49021672466188e-06,0.00021843115973752,0.000161329910042696,4.37100737826768e-07
-"360","Paihuano","Elqui","Región de Coquimbo",2.20735873881495e-05,1.52985251133941e-06,7.12672845111229e-05,4.80413436889648e-05,2.04642606149719e-06
-"361","Paihuano","Elqui","Región de Coquimbo",2.90473308268702e-05,7.94728620689966e-08,0.000113884605525527,7.28964805603027e-05,7.94728620689966e-08
-"362","Vicuña","Elqui","Región de Coquimbo",1.47819519042969e-05,0,3.57627868652344e-07,8.34465026855469e-07,0
-"363","Vicuña","Elqui","Región de Coquimbo",0,0,9.93410722571753e-08,6.95387541327364e-07,2.44379043579102e-06
-"364","Vicuña","Elqui","Región de Coquimbo",2.67426166828955e-05,0,1.13447504190844e-05,1.10665960164624e-05,0
-"365","Vicuña","Elqui","Región de Coquimbo",9.70959663391113e-05,2.78155016530945e-06,0.00012709696602542,0.000133136913063936,7.54992186102754e-07
-"366","Vicuña","Elqui","Región de Coquimbo",7.82807692303322e-05,2.80141830444336e-06,0.000126818820717745,0.000133017703774385,4.33127070209594e-06
-"367","Vicuña","Elqui","Región de Coquimbo",1.01923942565918e-05,0,3.58621291525196e-05,2.83718109130859e-05,3.17891448275986e-07
-"368","Vicuña","Elqui","Región de Coquimbo",1.64707507792627e-05,0,2.29080524150049e-05,2.18550358113134e-05,0
-"369","Vicuña","Elqui","Región de Coquimbo",2.52326335612452e-05,1.39077508265473e-06,8.98838043212891e-05,2.56697330769384e-05,0
-"370","Vicuña","Elqui","Región de Coquimbo",0.000167965888977051,5.86112355449586e-06,0.000276287406450137,0.000283579021925107,8.34465026855469e-07
-"371","Vicuña","Elqui","Región de Coquimbo",2.53717098530615e-05,1.98682155172492e-08,8.151928341249e-05,6.09556846029591e-05,0
-"372","Vicuña","Elqui","Región de Coquimbo",1.89145412150538e-05,1.19209289550781e-07,3.01798190776026e-05,2.89082527160645e-05,5.96046447753906e-08
-"373","Illapel","Choapa","Región de Coquimbo",2.52922382060206e-05,0,8.74201475653535e-07,2.55902614298975e-05,0
-"374","Illapel","Choapa","Región de Coquimbo",3.6259491025703e-05,8.34465026855469e-07,2.45769824687159e-05,3.95576171285938e-05,0
-"375","Illapel","Choapa","Región de Coquimbo",4.53591346740723e-05,1.13844871520996e-05,0.000154376029968262,3.64581756002735e-05,5.04652643940062e-06
-"376","Illapel","Choapa","Región de Coquimbo",2.46167182922363e-05,0,5.36441802978516e-07,2.69611682597315e-05,0
-"377","Canela","Choapa","Región de Coquimbo",5.36441802978516e-07,3.17891448275986e-07,1.79211292561376e-05,5.0663948059082e-06,0
-"378","Canela","Choapa","Región de Coquimbo",5.96046447753906e-08,0,1.96695327758789e-06,1.9073486328125e-06,0
-"379","Canela","Choapa","Región de Coquimbo",3.57627868652344e-06,1.19209289550781e-07,7.54992151996703e-06,3.57627868652344e-06,0
-"380","Los Vilos","Choapa","Región de Coquimbo",2.92062759399414e-06,1.19209289550781e-07,7.27176666259766e-06,4.98692179462523e-06,0
-"381","Los Vilos","Choapa","Región de Coquimbo",1.5894571561148e-06,0,4.23192977905273e-06,5.04652643940062e-06,0
-"382","Los Vilos","Choapa","Región de Coquimbo",3.67561983694031e-06,0,1.3907749973896e-07,1.20997428894043e-05,0
-"383","Los Vilos","Choapa","Región de Coquimbo",3.35772824655578e-06,4.56968933804092e-07,1.39872236104566e-05,1.13248825073242e-05,0
-"384","Salamanca","Choapa","Región de Coquimbo",3.2405059755547e-05,4.56968933804092e-07,1.42852468343335e-05,3.68952751159668e-05,0
-"385","Salamanca","Choapa","Región de Coquimbo",4.09285239584278e-05,9.31819249672117e-06,0.000148296356201172,3.68754081137013e-05,4.3710074351111e-06
-"386","Salamanca","Choapa","Región de Coquimbo",1.33117043787934e-06,1.17222464268707e-06,9.69966276898049e-05,4.97897453897167e-05,0
-"387","Salamanca","Choapa","Región de Coquimbo",1.63118038472021e-05,3.43720125783875e-06,8.61088410601951e-05,1.19805335998535e-05,0
-"388","Salamanca","Choapa","Región de Coquimbo",6.75519288506621e-07,1.43051147460938e-06,0.000217477485421114,4.08490486734081e-05,0
-"389","Salamanca","Choapa","Región de Coquimbo",3.17891448275986e-07,2.7815499947792e-07,0.000314871460432187,3.4113723813789e-05,0
-"390","Ovalle","Limarí","Región de Coquimbo",0,1.98682155172492e-08,4.17232513427734e-07,5.96046447753906e-08,0
-"391","Ovalle","Limarí","Región de Coquimbo",0,1.98682155172492e-08,7.15255737304688e-07,2.26497650146484e-06,0
-"392","Ovalle","Limarí","Región de Coquimbo",0,1.98682155172492e-08,2.64247250925109e-06,5.16573607001192e-07,0
-"393","Ovalle","Limarí","Región de Coquimbo",5.96046447753906e-08,0,3.00010037790344e-06,1.80800759608246e-06,0
-"394","Combarbalá","Limarí","Región de Coquimbo",1.98682155172492e-08,0,9.93410708360898e-07,1.23182928746246e-06,0
-"395","Combarbalá","Limarí","Región de Coquimbo",2.06629442800477e-06,0,1.37885408548755e-05,7.11282109477906e-06,0
-"396","Combarbalá","Limarí","Región de Coquimbo",1.98682144514351e-07,8.34465026855469e-07,3.50673981301952e-05,1.11261999791168e-06,0
-"397","Combarbalá","Limarí","Región de Coquimbo",0,5.78165054321289e-06,8.46187249408104e-05,1.5894571561148e-06,0
-"398","Monte Patria","Limarí","Región de Coquimbo",2.30471300710633e-06,1.98682155172492e-08,1.41461687235278e-05,7.70886708778562e-06,0
-"399","Monte Patria","Limarí","Región de Coquimbo",1.50601072164136e-05,7.94728620689966e-08,9.78708267211914e-05,3.54647636413574e-05,0
-"400","Monte Patria","Limarí","Región de Coquimbo",7.13666304363869e-05,1.80800759608246e-06,0.000231663390877657,0.000382145255571231,1.17222464268707e-06
-"401","Monte Patria","Limarí","Región de Coquimbo",3.17891431222961e-06,4.11272048950195e-06,5.09818382852245e-05,7.68899917602539e-06,0
-"402","Monte Patria","Limarí","Región de Coquimbo",1.5834966688999e-05,1.82787573521637e-06,0.000193913772818632,7.46448858990334e-05,0
-"403","Punitaqui","Limarí","Región de Coquimbo",2.58286803500596e-07,2.18550368913384e-07,2.0146369934082e-05,4.72863530376344e-06,0
-"404","Río Hurtado","Limarí","Región de Coquimbo",9.43740178627195e-06,6.35782896551973e-07,1.35699910970288e-05,1.14043550638598e-05,0
-"405","Río Hurtado","Limarí","Región de Coquimbo",1.66893005371094e-06,2.7815499947792e-07,1.08083086161059e-05,8.54333211464109e-06,0
-"406","Río Hurtado","Limarí","Región de Coquimbo",1.14043550638598e-05,2.4835269414325e-06,6.44127503619529e-05,1.64707507792627e-05,0
-"407","Río Hurtado","Limarí","Región de Coquimbo",2.77360286418116e-05,7.21216201782227e-06,0.000155329704284668,0.000123222664115019,1.00135803222656e-05
-"408","Río Hurtado","Limarí","Región de Coquimbo",3.79880257241894e-05,5.12599945068359e-06,0.000131607055664062,0.000133832290885039,7.96715448814211e-06
-"409","Valparaíso","Valparaíso","Región de Valparaíso",NA,NA,NA,NA,NA
-"410","Casablanca","Valparaíso","Región de Valparaíso",1.49011611938477e-06,0,1.70866644566559e-06,1.35103857701324e-06,0
-"411","Casablanca","Valparaíso","Región de Valparaíso",7.29163502910524e-06,0,0,1.53779983520508e-05,0
-"412","Concón","Valparaíso","Región de Valparaíso",NA,NA,NA,NA,NA
-"413","Juan Fernández","Valparaíso","Región de Valparaíso",NA,NA,NA,NA,NA
-"414","Puchuncaví","Valparaíso","Región de Valparaíso",NA,NA,NA,NA,NA
-"415","Quintero","Valparaíso","Región de Valparaíso",NA,NA,NA,NA,NA
-"416","Viña del Mar","Valparaíso","Región de Valparaíso",3.27825546264648e-06,0,4.23192977905273e-06,4.41074371337891e-06,0
-"417","Isla de Pascua","Isla de Pascua","Región de Valparaíso",NA,NA,NA,NA,NA
-"418","Los Andes","Los Andes","Región de Valparaíso",4.62730713479687e-05,3.17692756652832e-05,0.000255326420301571,5.0147373258369e-05,7.94728620689966e-08
-"419","Calle Larga","Los Andes","Región de Valparaíso",6.18298872723244e-05,4.21603508584667e-05,0.000254015118116513,2.58684158325195e-05,0
-"420","Rinconada","Los Andes","Región de Valparaíso",NA,NA,NA,NA,NA
-"421","San Esteban","Los Andes","Región de Valparaíso",3.12328338623047e-05,1.90337505046045e-05,0.000265320151811466,0.000217119857552461,1.2814998626709e-05
-"422","San Esteban","Los Andes","Región de Valparaíso",6.29425048828125e-05,4.61737326986622e-05,0.000305334717268124,2.18947734538233e-05,0
-"423","San Esteban","Los Andes","Región de Valparaíso",4.87565994262695e-05,3.56237105734181e-05,0.000295639038085938,7.97510147094727e-05,1.3907749973896e-07
-"424","La Ligua","Petorca","Región de Valparaíso",3.61601519216492e-06,0,1.21196114832856e-06,1.01526575235766e-05,0
-"425","La Ligua","Petorca","Región de Valparaíso",1.53978671733057e-05,0,7.94728620689966e-08,2.16563535104797e-06,0
-"426","Cabildo","Petorca","Región de Valparaíso",1.20004015116137e-05,1.2516975402832e-06,0.000305076449876651,6.59028664813377e-05,0
-"427","Cabildo","Petorca","Región de Valparaíso",5.30680008523632e-05,2.38418579101562e-07,1.27355260701734e-05,1.1146068572998e-05,0
-"428","Papudo","Petorca","Región de Valparaíso",NA,NA,NA,NA,NA
-"429","Petorca","Petorca","Región de Valparaíso",1.90138816833496e-05,2.38418579101562e-07,1.30931539388257e-05,2.55505237873876e-05,0
-"430","Petorca","Petorca","Región de Valparaíso",4.40279654867481e-05,3.11930966745422e-06,6.39955178485252e-05,2.28285789489746e-05,0
-"431","Zapallar","Petorca","Región de Valparaíso",NA,NA,NA,NA,NA
-"432","Quillota","Quillota","Región de Valparaíso",NA,NA,NA,NA,NA
-"433","Calera","Quillota","Región de Valparaíso",NA,NA,NA,NA,NA
-"434","Hijuelas","Quillota","Región de Valparaíso",NA,NA,NA,NA,NA
-"435","La Cruz","Quillota","Región de Valparaíso",NA,NA,NA,NA,NA
-"436","Nogales","Quillota","Región de Valparaíso",6.67572021484375e-06,0,0,2.92062759399414e-06,0
-"437","San Antonio","San Antonio","Región de Valparaíso",5.96046447753906e-08,0,2.38418579101562e-07,7.94728620689966e-08,0
-"438","Algarrobo","San Antonio","Región de Valparaíso",NA,NA,NA,NA,NA
-"439","Cartagena","San Antonio","Región de Valparaíso",9.13937867608183e-07,0,2.02655792236328e-06,1.23182928746246e-06,0
-"440","El Quisco","San Antonio","Región de Valparaíso",NA,NA,NA,NA,NA
-"441","El Tabo","San Antonio","Región de Valparaíso",NA,NA,NA,NA,NA
-"442","Santo Domingo","San Antonio","Región de Valparaíso",NA,NA,NA,NA,NA
-"443","San Felipe","San Felipe","Región de Valparaíso",NA,NA,NA,NA,NA
-"444","Catemu","San Felipe","Región de Valparaíso",1.9351640730747e-05,1.78813934326172e-07,8.38438700156985e-06,9.3380613179761e-06,0
-"445","Llaillay","San Felipe","Región de Valparaíso",NA,NA,NA,NA,NA
-"446","Panquehue","San Felipe","Región de Valparaíso",1.94311141967773e-05,1.78813934326172e-07,2.87493076029932e-05,6.31809234619141e-06,0
-"447","Putaendo","San Felipe","Región de Valparaíso",3.17494086630177e-05,1.72853469848633e-06,8.89698640094139e-05,4.51008490927052e-05,0
-"448","Putaendo","San Felipe","Región de Valparaíso",4.19418029196095e-05,2.29676570597803e-05,0.000308235496049747,0.000201721981284209,4.17232513427734e-07
-"449","Santa María","San Felipe","Región de Valparaíso",NA,NA,NA,NA,NA
-"450","Quilpué","Marga Marga","Región de Valparaíso",NA,NA,NA,NA,NA
-"451","Limache","Marga Marga","Región de Valparaíso",4.31140279033571e-06,0,0,8.62280558067141e-06,0
-"452","Olmué","Marga Marga","Región de Valparaíso",NA,NA,NA,NA,NA
-"453","Villa Alemana","Marga Marga","Región de Valparaíso",NA,NA,NA,NA,NA
-"454","Rancagua","Cachapoal","Región del Libertador Bernardo O'Higgins",NA,NA,NA,NA,NA
-"455","Codegua","Cachapoal","Región del Libertador Bernardo O'Higgins",NA,NA,NA,NA,NA
-"456","Coinco","Cachapoal","Región del Libertador Bernardo O'Higgins",NA,NA,NA,NA,NA
-"457","Coltauco","Cachapoal","Región del Libertador Bernardo O'Higgins",3.70144844055176e-05,1.98682155172492e-08,7.09295272827148e-06,1.56164169311523e-05,0
-"458","Doñihue","Cachapoal","Región del Libertador Bernardo O'Higgins",NA,NA,NA,NA,NA
-"459","Graneros","Cachapoal","Región del Libertador Bernardo O'Higgins",NA,NA,NA,NA,NA
-"460","Las Cabras","Cachapoal","Región del Libertador Bernardo O'Higgins",2.08020210266113e-05,0,1.98682144514351e-07,8.84135533851804e-06,0
-"461","Machalí","Cachapoal","Región del Libertador Bernardo O'Higgins",7.81814233050682e-05,8.76188278198242e-06,0.000238577529671602,4.80214766866993e-05,3.31799196828797e-06
-"462","Machalí","Cachapoal","Región del Libertador Bernardo O'Higgins",5.30481338500977e-05,3.41733289133117e-06,0.000281373650068417,3.56833152181935e-05,1.2516975402832e-06
-"463","Machalí","Cachapoal","Región del Libertador Bernardo O'Higgins",2.88883838948095e-05,1.98682155172492e-08,0.000117381416202988,3.03983688354492e-06,0
-"464","Malloa","Cachapoal","Región del Libertador Bernardo O'Higgins",NA,NA,NA,NA,NA
-"465","Mostazal","Cachapoal","Región del Libertador Bernardo O'Higgins",3.65773848898243e-05,1.98682144514351e-07,7.02937468304299e-05,1.67687740031397e-05,0
-"466","Mostazal","Cachapoal","Región del Libertador Bernardo O'Higgins",0.000141223266837187,4.03920821554493e-05,0.000126838684082031,3.85244675271679e-05,9.13937867608183e-07
-"467","Olivar","Cachapoal","Región del Libertador Bernardo O'Higgins",NA,NA,NA,NA,NA
-"468","Peumo","Cachapoal","Región del Libertador Bernardo O'Higgins",NA,NA,NA,NA,NA
-"469","Pichidegua","Cachapoal","Región del Libertador Bernardo O'Higgins",NA,NA,NA,NA,NA
-"470","Quinta de Tilcoco","Cachapoal","Región del Libertador Bernardo O'Higgins",NA,NA,NA,NA,NA
-"471","Rengo","Cachapoal","Región del Libertador Bernardo O'Higgins",4.19418029196095e-05,9.33806120428926e-07,5.54919242858887e-05,2.03847885131836e-05,2.98023223876953e-07
-"472","Rengo","Cachapoal","Región del Libertador Bernardo O'Higgins",5.23527451150585e-05,9.13937867608183e-07,0.000120242439152207,1.91529597941553e-05,2.98023223876953e-07
-"473","Requínoa","Cachapoal","Región del Libertador Bernardo O'Higgins",4.88360710733104e-05,2.58286803500596e-07,6.37570992694236e-05,2.66234087575867e-06,0
-"474","San Vicente","Cachapoal","Región del Libertador Bernardo O'Higgins",7.86781311035156e-06,0,3.97364310344983e-08,2.58286803500596e-07,0
-"475","San Vicente","Cachapoal","Región del Libertador Bernardo O'Higgins",6.41743326923461e-06,0,5.5630999895584e-07,2.7815499947792e-07,0
-"476","Pichilemu","Cardenal Caro","Región del Libertador Bernardo O'Higgins",0,0,1.3907749973896e-07,0,0
-"477","La Estrella","Cardenal Caro","Región del Libertador Bernardo O'Higgins",0,0,7.94728620689966e-08,2.98023223876953e-07,0
-"478","La Estrella","Cardenal Caro","Región del Libertador Bernardo O'Higgins",2.38418579101562e-07,0,7.94728620689966e-08,6.1591464373123e-07,0
-"479","Litueche","Cardenal Caro","Región del Libertador Bernardo O'Higgins",1.3907749973896e-07,0,2.18550368913384e-07,1.19209289550781e-07,0
-"480","Marchigüe","Cardenal Caro","Región del Libertador Bernardo O'Higgins",7.94728620689966e-08,0,1.58945724137993e-07,1.17222464268707e-06,0
-"481","Navidad","Cardenal Caro","Región del Libertador Bernardo O'Higgins",1.98682155172492e-08,0,6.55651092529297e-07,1.58945724137993e-07,0
-"482","Paredones","Cardenal Caro","Región del Libertador Bernardo O'Higgins",NA,NA,NA,NA,NA
-"483","San Fernando","Colchagua","Región del Libertador Bernardo O'Higgins",8.4996223449707e-05,2.64247250925109e-06,0.000103255115391221,4.40875701315235e-05,8.54333222832793e-07
-"484","San Fernando","Colchagua","Región del Libertador Bernardo O'Higgins",7.12474211468361e-05,1.78813934326172e-06,0.000134746238472871,3.47495079040527e-05,6.1591464373123e-07
-"485","Chépica","Colchagua","Región del Libertador Bernardo O'Higgins",9.51687525230227e-06,0,2.7815499947792e-07,1.11261999791168e-06,0
-"486","Chimbarongo","Colchagua","Región del Libertador Bernardo O'Higgins",1.34309129862231e-05,0,1.5894571561148e-06,1.07288360595703e-06,0
-"487","Lolol","Colchagua","Región del Libertador Bernardo O'Higgins",1.19209289550781e-07,0,1.98682144514351e-07,3.97364289028701e-07,0
-"488","Lolol","Colchagua","Región del Libertador Bernardo O'Higgins",4.82797622680664e-06,0,7.94728620689966e-08,7.54992186102754e-07,0
-"489","Nancagua","Colchagua","Región del Libertador Bernardo O'Higgins",NA,NA,NA,NA,NA
-"490","Palmilla","Colchagua","Región del Libertador Bernardo O'Higgins",NA,NA,NA,NA,NA
-"491","Peralillo","Colchagua","Región del Libertador Bernardo O'Higgins",4.72863530376344e-06,0,7.94728620689966e-08,9.93410708360898e-07,0
-"492","Placilla","Colchagua","Región del Libertador Bernardo O'Higgins",NA,NA,NA,NA,NA
-"493","Pumanque","Colchagua","Región del Libertador Bernardo O'Higgins",NA,NA,NA,NA,NA
-"494","Santa Cruz","Colchagua","Región del Libertador Bernardo O'Higgins",NA,NA,NA,NA,NA
-"495","Talca","Talca","Región del Maule",NA,NA,NA,NA,NA
-"496","Constitución","Talca","Región del Maule",4.37100737826768e-07,0,2.58286803500596e-07,0,0
-"497","Constitución","Talca","Región del Maule",3.97364310344983e-08,0,1.72853469848633e-06,4.96705354180449e-07,0
-"498","Constitución","Talca","Región del Maule",5.96046447753906e-07,0,1.78813934326172e-07,0,0
-"499","Curepto","Talca","Región del Maule",5.96046447753906e-08,0,1.19209289550781e-07,0,0
-"500","Curepto","Talca","Región del Maule",1.23182928746246e-06,0,2.58286803500596e-07,0,0
-"501","Empedrado","Talca","Región del Maule",NA,NA,NA,NA,NA
-"502","Maule","Talca","Región del Maule",6.95387541327364e-07,0,1.98682155172492e-08,3.21865081787109e-06,0
-"503","Pelarco","Talca","Región del Maule",NA,NA,NA,NA,NA
-"504","Pencahue","Talca","Región del Maule",9.73542569226993e-07,0,9.93410722571753e-08,1.82787573521637e-06,0
-"505","Río Claro","Talca","Región del Maule",1.6331672668457e-05,0,2.46365857492492e-06,1.20401382446289e-05,0
-"506","San Clemente","Talca","Región del Maule",1.295407582802e-05,0,5.16573607001192e-07,5.56310033061891e-06,0
-"507","San Clemente","Talca","Región del Maule",5.46375922567677e-05,3.3775964425331e-07,1.06294946817798e-05,1.66495647135889e-05,0
-"508","San Clemente","Talca","Región del Maule",0.000117480754852295,1.09275185877777e-06,3.39150428771973e-05,4.44451980001759e-05,0
-"509","San Clemente","Talca","Región del Maule",0.000185231372597627,7.35123967388063e-06,3.4888584195869e-05,4.10477332479786e-05,3.97364310344983e-08
-"510","San Clemente","Talca","Región del Maule",0.000154038265463896,1.03314721400238e-06,2.24510822590673e-05,4.65909652120899e-05,3.57627868652344e-07
-"511","San Clemente","Talca","Región del Maule",0.000103096164821181,3.00010037790344e-06,1.69277191162109e-05,3.15507240884472e-05,3.77496093051377e-07
-"512","San Clemente","Talca","Región del Maule",0.000124474361655302,2.74181365966797e-06,1.50005025716382e-05,3.38554382324219e-05,2.18550368913384e-07
-"513","San Rafael","Talca","Región del Maule",3.95377492168336e-06,0,3.3775964425331e-07,5.38428639629274e-06,0
-"514","Cauquenes","Cauquenes","Región del Maule",1.01327896118164e-06,0,1.98682144514351e-07,1.58945724137993e-07,0
-"515","Cauquenes","Cauquenes","Región del Maule",3.17891448275986e-07,0,5.16573607001192e-07,8.94069671630859e-07,1.98682155172492e-08
-"516","Cauquenes","Cauquenes","Región del Maule",1.35103857701324e-06,0,2.18550368913384e-07,1.58945724137993e-07,0
-"517","Chanco","Cauquenes","Región del Maule",3.97364310344983e-08,0,7.74860382080078e-07,1.23182928746246e-06,0
-"518","Pelluhue","Cauquenes","Región del Maule",0,0,4.76837158203125e-07,1.82787573521637e-06,7.94728620689966e-08
-"519","Curicó","Curicó","Región del Maule",2.00867652893066e-05,0,3.3775964425331e-07,3.17891431222961e-06,0
-"520","Curicó","Curicó","Región del Maule",5.44985123269726e-05,0,1.0073184967041e-05,2.96831130981445e-05,0
-"521","Curicó","Curicó","Región del Maule",0.000113825000880752,0,7.98702239990234e-06,2.23318729695166e-05,1.78813934326172e-07
-"522","Hualañé","Curicó","Región del Maule",1.3907749973896e-07,0,1.3907749973896e-07,8.14596830878145e-07,0
-"523","Licantén","Curicó","Región del Maule",NA,NA,NA,NA,NA
-"524","Molina","Curicó","Región del Maule",0.000178535774466582,3.57627868652344e-07,6.31014481768943e-05,2.86698341369629e-05,8.34465026855469e-07
-"525","Molina","Curicó","Región del Maule",0.00011811653530458,2.98023223876953e-06,4.6332675992744e-05,1.53382625285303e-05,6.55651092529297e-07
-"526","Rauco","Curicó","Región del Maule",1.22586889119702e-05,0,2.18550368913384e-07,2.40405393014953e-06,0
-"527","Romeral","Curicó","Región del Maule",7.90754984336672e-06,0,6.35782896551973e-07,2.92062759399414e-06,0
-"528","Romeral","Curicó","Región del Maule",8.45789909362793e-05,4.86771250507445e-06,0.00010158618533751,4.01536635763478e-05,0
-"529","Romeral","Curicó","Región del Maule",7.98503533587791e-05,3.21865081787109e-06,0.000106692314147949,3.77098731405567e-05,1.98682144514351e-07
-"530","Sagrada Familia","Curicó","Región del Maule",NA,NA,NA,NA,NA
-"531","Teno","Curicó","Región del Maule",NA,NA,NA,NA,NA
-"532","Vichuquén","Curicó","Región del Maule",0,0,4.56968933804092e-07,0,0
-"533","Linares","Linares","Región del Maule",1.49011611938477e-06,0,0,3.45706939697266e-06,0
-"534","Linares","Linares","Región del Maule",8.95460470928811e-05,1.78813934326172e-07,2.65439357463038e-05,4.93129082315136e-05,1.78813934326172e-07
-"535","Colbún","Linares","Región del Maule",4.85976524942089e-05,3.17891448275986e-07,1.47223472595215e-05,3.48289795510937e-05,1.98682155172492e-08
-"536","Colbún","Linares","Región del Maule",0.000245730072492734,4.41074371337891e-06,1.69475879374659e-05,4.65512275695801e-05,4.56968933804092e-07
-"537","Colbún","Linares","Región del Maule",0.000186463192221709,5.96046447753906e-07,7.37110758564086e-06,4.8220157623291e-05,5.16573607001192e-07
-"538","Colbún","Linares","Región del Maule",0.00036698579788208,1.49011611938477e-06,2.51332912739599e-05,5.65250702493358e-05,6.1591464373123e-07
-"539","Colbún","Linares","Región del Maule",0.00022125244140625,1.98682144514351e-07,2.06629442800477e-06,3.6776065826416e-05,3.3775964425331e-07
-"540","Longaví","Linares","Región del Maule",1.31924944071216e-05,0,9.51687525230227e-06,2.49743461608887e-05,0
-"541","Longaví","Linares","Región del Maule",0.00011916955554625,8.54333222832793e-07,6.90619126544334e-05,6.00218772888184e-05,1.58945724137993e-07
-"542","Parral","Linares","Región del Maule",1.5695890169809e-06,0,3.97364310344983e-08,3.85443354389281e-06,0
-"543","Parral","Linares","Región del Maule",3.69548797607422e-06,0,5.00679016113281e-06,2.32855472859228e-05,0
-"544","Parral","Linares","Región del Maule",4.31140251748729e-05,6.75519288506621e-07,5.19951172464062e-05,3.5703182220459e-05,0
-"545","Retiro","Linares","Región del Maule",2.52326321970031e-06,0,5.5630999895584e-07,7.29163502910524e-06,0
-"546","San Javier","Linares","Región del Maule",3.79482912649109e-06,0,1.98682155172492e-08,0,0
-"547","San Javier","Linares","Región del Maule",4.07298421123414e-06,0,5.96046447753906e-08,4.37100737826768e-07,0
-"548","Villa Alegre","Linares","Región del Maule",NA,NA,NA,NA,NA
-"549","Yerbas Buenas","Linares","Región del Maule",1.05698900370044e-05,0,3.55641054738953e-06,1.84178352355957e-05,1.98682155172492e-08
-"550","Concepción","Concepción","Región del Bío-Bío",NA,NA,NA,NA,NA
-"551","Coronel","Concepción","Región del Bío-Bío",9.67582036537351e-06,0,1.98682155172492e-08,4.37100737826768e-07,3.77496093051377e-07
-"552","Chiguayante","Concepción","Región del Bío-Bío",NA,NA,NA,NA,NA
-"553","Florida","Concepción","Región del Bío-Bío",1.61925945576513e-05,0,0,0,7.94728620689966e-08
-"554","Hualqui","Concepción","Región del Bío-Bío",NA,NA,NA,NA,NA
-"555","Lota","Concepción","Región del Bío-Bío",NA,NA,NA,NA,NA
-"556","Penco","Concepción","Región del Bío-Bío",3.85443354389281e-06,0,0,2.58286803500596e-07,1.19209289550781e-07
-"557","San Pedro de la Paz","Concepción","Región del Bío-Bío",NA,NA,NA,NA,NA
-"558","Santa Juana","Concepción","Región del Bío-Bío",2.88089108835266e-06,0,0,7.94728620689966e-08,2.18550368913384e-07
-"559","Santa Juana","Concepción","Región del Bío-Bío",2.88089108835266e-06,0,1.98682155172492e-08,9.5367431640625e-07,3.97364310344983e-08
-"560","Talcahuano","Concepción","Región del Bío-Bío",NA,NA,NA,NA,NA
-"561","Tomé","Concepción","Región del Bío-Bío",NA,NA,NA,NA,NA
-"562","Hualpén","Concepción","Región del Bío-Bío",NA,NA,NA,NA,NA
-"563","Lebu","Arauco","Región del Bío-Bío",3.97364310344983e-08,0,8.54333222832793e-07,2.87095699604833e-05,4.33723143942188e-05
-"564","Arauco","Arauco","Región del Bío-Bío",1.98682155172492e-08,0,1.19209289550781e-06,1.86562538146973e-05,1.94708500202978e-05
-"565","Arauco","Arauco","Región del Bío-Bío",7.15255737304688e-07,0,1.98682144514351e-07,1.76827109044098e-06,3.83456563213258e-06
-"566","Cañete","Arauco","Región del Bío-Bío",3.77496093051377e-07,0,1.78813934326172e-06,2.46365857492492e-06,3.42726707458496e-05
-"567","Contulmo","Arauco","Región del Bío-Bío",4.76837158203125e-07,0,1.80800759608246e-06,8.0863637776929e-06,3.77893447875977e-05
-"568","Curanilahue","Arauco","Región del Bío-Bío",8.34465026855469e-07,0,0,3.1391780339618e-06,1.89741458598292e-05
-"569","Los Alamos","Arauco","Región del Bío-Bío",7.94728620689966e-08,0,3.77496093051377e-07,3.55243682861328e-05,5.42402267456055e-05
-"570","Tirúa","Arauco","Región del Bío-Bío",7.94728620689966e-08,0,7.35123933282011e-07,7.80820846557617e-05,6.45915642962791e-05
-"571","Tirúa","Arauco","Región del Bío-Bío",9.93410708360898e-07,0,1.78813934326172e-07,1.77621841430664e-05,4.6332675992744e-05
-"572","Los Angeles","Bío-Bío","Región del Bío-Bío",2.10603070627258e-06,0,1.98682155172492e-08,6.1591464373123e-07,4.96705354180449e-07
-"573","Los Angeles","Bío-Bío","Región del Bío-Bío",8.42412282509031e-06,0,1.19209289550781e-06,2.62260437011719e-06,1.49011611938477e-06
-"574","Los Angeles","Bío-Bío","Región del Bío-Bío",1.94708513845399e-06,0,0,3.97364310344983e-08,1.74840295130707e-06
-"575","Los Angeles","Bío-Bío","Región del Bío-Bío",6.73532485961914e-06,0,9.13937867608183e-07,3.17891431222961e-06,6.41743326923461e-06
-"576","Antuco","Bío-Bío","Región del Bío-Bío",0.000114719070552383,3.17891448275986e-07,5.9107940614922e-05,7.99099580035545e-05,1.41461687235278e-05
-"577","Antuco","Bío-Bío","Región del Bío-Bío",6.52869566692971e-05,0,1.41660375447827e-05,3.73125076293945e-05,1.54376029968262e-05
-"578","Antuco","Bío-Bío","Región del Bío-Bío",6.99162483215332e-05,9.93410722571753e-08,1.40865640787524e-05,4.20808792114258e-05,4.53392676718067e-05
-"579","Cabrero","Bío-Bío","Región del Bío-Bío",1.12652778625488e-05,0,9.93410722571753e-08,1.05301535313629e-06,2.38418579101562e-07
-"580","Laja","Bío-Bío","Región del Bío-Bío",NA,NA,NA,NA,NA
-"581","Mulchén","Bío-Bío","Región del Bío-Bío",9.83476638793945e-06,0,2.08616256713867e-06,7.88768102211179e-06,1.9351640730747e-05
-"582","Mulchén","Bío-Bío","Región del Bío-Bío",2.55306567851221e-05,0,1.34309129862231e-05,4.73856925964355e-05,6.55055046081543e-05
-"583","Mulchén","Bío-Bío","Región del Bío-Bío",3.35574150085449e-05,0,2.95241679850733e-05,6.50286674499512e-05,0.000125408172607422
-"584","Mulchén","Bío-Bío","Región del Bío-Bío",0.000110268592834473,0,0.000123520687338896,8.81155356182717e-05,0.000141958400490694
-"585","Nacimiento","Bío-Bío","Región del Bío-Bío",3.21865081787109e-06,0,0,8.74201475653535e-07,1.66893005371094e-06
-"586","Nacimiento","Bío-Bío","Región del Bío-Bío",2.86102294921875e-06,0,0,1.78813934326172e-07,5.5630999895584e-07
-"587","Negrete","Bío-Bío","Región del Bío-Bío",NA,NA,NA,NA,NA
-"588","Quilaco","Bío-Bío","Región del Bío-Bío",NA,NA,NA,NA,NA
-"589","Quilleco","Bío-Bío","Región del Bío-Bío",2.36630439758301e-05,0,3.71535611520812e-06,1.23182935567456e-05,1.45037965921802e-05
-"590","Quilleco","Bío-Bío","Región del Bío-Bío",7.57376328692771e-05,6.95387541327364e-07,0.00014235575508792,8.78373757586814e-05,3.43124083883595e-05
-"591","Quilleco","Bío-Bío","Región del Bío-Bío",8.36650506244041e-05,5.36441802978516e-07,9.56455842242576e-05,8.38240011944436e-05,4.75049018859863e-05
-"592","San Rosendo","Bío-Bío","Región del Bío-Bío",NA,NA,NA,NA,NA
-"593","Santa Bárbara","Bío-Bío","Región del Bío-Bío",0.000114123024104629,0,9.56455842242576e-05,7.34329223632812e-05,8.73804092407227e-05
-"594","Tucapel","Bío-Bío","Región del Bío-Bío",3.04778423014795e-05,0,4.90744923808961e-06,1.04506807474536e-05,9.73542569226993e-07
-"595","Tucapel","Bío-Bío","Región del Bío-Bío",0.000133971378090791,4.76837158203125e-07,7.77840614318848e-05,8.58902931213379e-05,8.6824102254468e-06
-"596","Yumbel","Bío-Bío","Región del Bío-Bío",1.52786578837549e-05,0,0,0,7.94728620689966e-08
-"597","Alto Biobío","Bío-Bío","Región del Bío-Bío",0.000102341175079346,7.94728620689966e-08,7.64330252422951e-05,8.41418877826072e-05,9.41554681048729e-05
-"598","Alto Biobío","Bío-Bío","Región del Bío-Bío",4.88360710733104e-05,1.58945724137993e-07,2.44776401814306e-05,6.32802621112205e-05,7.28567465557717e-05
-"599","Alto Biobío","Bío-Bío","Región del Bío-Bío",8.64664689288475e-05,5.96046447753906e-08,7.29163512005471e-05,8.29100608825684e-05,0.000137130424263887
-"600","Alto Biobío","Bío-Bío","Región del Bío-Bío",3.19679566018749e-05,7.94728620689966e-08,3.21865081787109e-06,5.6366126955254e-05,0.000113387905003037
-"601","Temuco","Cautín","Región de La Araucanía",9.93410722571753e-08,1.98682155172492e-08,2.87294387817383e-05,1.67290363606298e-05,0.000108718872070312
-"602","Carahue","Cautín","Región de La Araucanía",7.94728620689966e-08,0,9.93410722571753e-08,7.73866995587014e-05,7.83205032348633e-05
-"603","Carahue","Cautín","Región de La Araucanía",1.07288360595703e-06,0,1.19209289550781e-07,5.22136688232422e-05,6.32206574664451e-05
-"604","Carahue","Cautín","Región de La Araucanía",9.93410708360898e-07,0,1.19209289550781e-07,5.94854354858398e-05,6.67572021484375e-05
-"605","Cunco","Cautín","Región de La Araucanía",1.83979664143408e-05,0,0.000217060252907686,9.19302328838967e-05,0.000266989081865177
-"606","Cunco","Cautín","Región de La Araucanía",3.73919792764354e-05,0,0.000205139323952608,9.10758972167969e-05,0.000352223723893985
-"607","Cunco","Cautín","Región de La Araucanía",4.01139259338379e-05,0,0.000207781791687012,0.000160157680511475,0.000368336826795712
-"608","Curarrehue","Cautín","Región de La Araucanía",6.04987144470215e-05,0,4.86771277792286e-05,0.000137845680001192,0.000315427780151367
-"609","Curarrehue","Cautín","Región de La Araucanía",3.97165604226757e-05,0,2.97625865641749e-05,6.56247138977051e-05,0.000351150840288028
-"610","Freire","Cautín","Región de La Araucanía",0,1.98682155172492e-08,1.18017196655273e-05,5.02864531881642e-05,0.000124057129141875
-"611","Freire","Cautín","Región de La Araucanía",2.58286803500596e-07,0,0.000169277191162109,8.6704887507949e-05,0.000190198421478271
-"612","Galvarino","Cautín","Región de La Araucanía",6.55651092529297e-07,0,3.30805778503418e-05,6.07967376708984e-06,7.44462013244629e-05
-"613","Gorbea","Cautín","Región de La Araucanía",1.19209289550781e-07,0,1.14043550638598e-05,8.41220244183205e-05,0.000140666961669922
-"614","Lautaro","Cautín","Región de La Araucanía",9.5367431640625e-07,0,4.12066765420604e-05,9.89437103271484e-06,0.000129282474517822
-"615","Lautaro","Cautín","Región de La Araucanía",1.01129217000562e-05,0,4.99486923217773e-05,1.32123632283765e-05,0.000198205307242461
-"616","Loncoche","Cautín","Región de La Araucanía",1.19209289550781e-07,0,0.000103374324680772,0.000122249126434326,0.000202476978302002
-"617","Melipeuco","Cautín","Región de La Araucanía",6.55253752483986e-05,3.97364310344983e-08,0.000178893402335234,0.000136176749947481,0.000330706447130069
-"618","Nueva Imperial","Cautín","Región de La Araucanía",9.93410708360898e-07,1.98682155172492e-08,1.15235650355316e-06,3.79880257241894e-05,8.38637351989746e-05
-"619","Padre Las Casas","Cautín","Región de La Araucanía",9.5367431640625e-07,0,8.49366188049316e-05,3.09546776406933e-05,0.000166893005371094
-"620","Perquenco","Cautín","Región de La Araucanía",NA,NA,NA,NA,NA
-"621","Pitrufquén","Cautín","Región de La Araucanía",NA,NA,NA,NA,NA
-"622","Pucón","Cautín","Región de La Araucanía",3.37362289428711e-05,0,0.00014998514961917,0.000155886009451933,0.00043952465057373
-"623","Pucón","Cautín","Región de La Araucanía",3.52660827047657e-05,0,7.33137130737305e-05,0.000153283282998018,0.000426093727583066
-"624","Pucón","Cautín","Región de La Araucanía",4.76837158203125e-05,0,1.01129217000562e-05,0.000163873031851836,0.000442485004896298
-"625","Saavedra","Cautín","Región de La Araucanía",NA,NA,NA,NA,NA
-"626","Teodoro Schmidt","Cautín","Región de La Araucanía",1.07288360595703e-06,0,7.94728620689966e-08,9.33408737182617e-05,8.25723036541604e-05
-"627","Teodoro Schmidt","Cautín","Región de La Araucanía",1.07288360595703e-06,1.98682155172492e-08,1.11261999791168e-06,7.20818861736916e-05,9.95794907794334e-05
-"628","Toltén","Cautín","Región de La Araucanía",1.41064322178863e-06,0,6.75519288506621e-07,0.000120500721095596,0.00011974573135376
-"629","Vilcún","Cautín","Región de La Araucanía",1.87158584594727e-05,0,0.000141342476126738,3.93589325540233e-05,0.000242412090301514
-"630","Vilcún","Cautín","Región de La Araucanía",4.4405460357666e-05,0,0.00017315149307251,6.66975975036621e-05,0.000302612781524658
-"631","Villarrica","Cautín","Región de La Araucanía",1.43051147460938e-05,0,0.000144263103720732,0.000152726963278838,0.000326534121995792
-"632","Villarrica","Cautín","Región de La Araucanía",5.24520874023438e-06,5.96046447753906e-08,8.1817306636367e-05,0.000204404190299101,0.000330547482008114
-"633","Cholchol","Cautín","Región de La Araucanía",1.43051147460938e-06,0,7.49031687519164e-06,2.23716106120264e-05,5.51740340597462e-05
-"634","Angol","Malleco","Región de La Araucanía",1.62919366175629e-06,0,5.84125518798828e-06,1.98682144514351e-07,2.99811363220215e-05
-"635","Angol","Malleco","Región de La Araucanía",2.08020210266113e-05,0,2.54313158620789e-06,2.38418579101562e-06,1.00930528788012e-05
-"636","Collipulli","Malleco","Región de La Araucanía",1.24573707580566e-05,0,9.0797739176196e-06,2.0722547560581e-05,7.42077827453613e-05
-"637","Curacautín","Malleco","Región de La Araucanía",0.000101466976047959,1.98682155172492e-08,0.000137309238198213,0.000158210590598173,0.000218192741158418
-"638","Curacautín","Malleco","Región de La Araucanía",3.57826538674999e-05,0,8.12013968243264e-05,4.04516868002247e-05,0.000258803367614746
-"639","Curacautín","Malleco","Región de La Araucanía",8.62479209899902e-05,1.98682155172492e-08,0.000130414962768555,0.000147978469613008,0.000287294387817383
-"640","Curacautín","Malleco","Región de La Araucanía",5.62866516702343e-05,5.96046447753906e-08,4.97301407449413e-05,7.21017495379783e-05,0.000241120651480742
-"641","Ercilla","Malleco","Región de La Araucanía",2.5828678644757e-06,0,1.07288360595703e-06,1.9868214167218e-06,3.41335944540333e-05
-"642","Lonquimay","Malleco","Región de La Araucanía",7.7704586146865e-05,3.97364310344983e-08,7.34527930035256e-05,7.22408294677734e-05,0.000180323913809843
-"643","Lonquimay","Malleco","Región de La Araucanía",2.8649965315708e-05,3.97364310344983e-08,6.75519288506621e-07,4.38292809121776e-05,0.000136375427246094
-"644","Lonquimay","Malleco","Región de La Araucanía",3.42329331033397e-05,3.97364310344983e-08,1.58945724137993e-07,2.86897029582178e-05,0.000160336494445801
-"645","Lonquimay","Malleco","Región de La Araucanía",1.43448514791089e-05,0,5.36441802978516e-07,6.05980540058226e-06,8.18371772766113e-05
-"646","Lonquimay","Malleco","Región de La Araucanía",7.08103179931641e-05,3.97364310344983e-08,4.97500113851856e-05,0.000100890792964492,0.000272393226623535
-"647","Lonquimay","Malleco","Región de La Araucanía",4.88559417135548e-05,3.97364310344983e-08,3.57627868652344e-07,5.7439010561211e-05,0.000191966697457246
-"648","Lonquimay","Malleco","Región de La Araucanía",2.72591914836084e-05,0,3.97364310344983e-08,1.10268592834473e-05,0.000121315322758164
-"649","Los Sauces","Malleco","Región de La Araucanía",1.94708513845399e-06,0,3.01996874441102e-06,3.3775964425331e-07,2.95042991638184e-05
-"650","Lumaco","Malleco","Región de La Araucanía",1.39077508265473e-06,0,4.76837158203125e-06,3.37759661306336e-06,3.44713516824413e-05
-"651","Purén","Malleco","Región de La Araucanía",1.05301535313629e-06,0,2.36431765188172e-06,3.77496093051377e-07,2.25702915486181e-05
-"652","Renaico","Malleco","Región de La Araucanía",1.4324982657854e-05,0,6.35782896551973e-07,2.42392229665711e-06,7.86781311035156e-06
-"653","Traiguén","Malleco","Región de La Araucanía",9.33806120428926e-07,0,1.32719678731519e-05,3.45706939697266e-06,3.54647636413574e-05
-"654","Victoria","Malleco","Región de La Araucanía",5.16573607001192e-07,0,7.17242573955446e-06,2.04642606149719e-06,8.47578048706055e-05
-"655","Victoria","Malleco","Región de La Araucanía",9.11951065063477e-06,0,1.54574718180811e-05,7.13268900653929e-06,0.000141143798828125
-"656","Victoria","Malleco","Región de La Araucanía",3.66767235391308e-05,0,4.82400246255565e-05,5.71807213418651e-05,0.000196973487618379
-"657","Puerto Montt","Llanquihue","Región de Los Lagos",2.47756634053076e-05,3.3775964425331e-07,0,0.00035405158996582,7.74860382080078e-05
-"658","Puerto Montt","Llanquihue","Región de Los Lagos",7.41084431865602e-06,7.94728620689966e-08,1.98682155172492e-08,0.000385483115678653,0.000196556255104952
-"659","Puerto Montt","Llanquihue","Región de Los Lagos",4.60942601421266e-06,2.18550368913384e-07,3.97364310344983e-08,0.000406404345994815,0.000462790339952335
-"660","Puerto Montt","Llanquihue","Región de Los Lagos",4.05708960897755e-05,0,5.96046447753906e-08,0.000378171593183652,0.000546475232113153
-"661","Calbuco","Llanquihue","Región de Los Lagos",4.46637459390331e-05,5.36441802978516e-07,1.98682155172492e-08,0.000417451054090634,6.35782853350975e-05
-"662","Cochamó","Llanquihue","Región de Los Lagos",6.03795051574707e-05,3.97364310344983e-08,3.97364310344983e-08,0.000301698833936825,0.000563323497772217
-"663","Cochamó","Llanquihue","Región de Los Lagos",4.48425598733593e-05,7.94728620689966e-08,0,0.000161250427481718,0.00052189826965332
-"664","Cochamó","Llanquihue","Región de Los Lagos",1.96695327758789e-05,9.13937867608183e-07,1.98682155172492e-08,0.000381092220777646,0.000632226467132568
-"665","Cochamó","Llanquihue","Región de Los Lagos",2.57094707194483e-05,1.98682155172492e-08,0,0.000298241764539853,0.000607947527896613
-"666","Cochamó","Llanquihue","Región de Los Lagos",2.14775409403956e-05,5.96046447753906e-08,0,0.000170648097991943,0.000609258830081671
-"667","Cochamó","Llanquihue","Región de Los Lagos",1.33713083414477e-05,1.19209289550781e-07,0,0.000386039406294003,0.000634948431979865
-"668","Cochamó","Llanquihue","Región de Los Lagos",9.21885202842532e-06,1.98682155172492e-08,0,0.000232875347137451,0.000593384087551385
-"669","Fresia","Llanquihue","Región de Los Lagos",3.82463149435353e-05,1.58945724137993e-07,0,0.00029677152633667,2.96235084533691e-05
-"670","Frutillar","Llanquihue","Región de Los Lagos",2.75969505310059e-05,0,2.58286803500596e-07,0.000282327324384823,3.00407409667969e-05
-"671","Los Muermos","Llanquihue","Región de Los Lagos",2.61863078776514e-05,2.58286803500596e-07,0,0.000328938156599179,4.95711974508595e-05
-"672","Los Muermos","Llanquihue","Región de Los Lagos",3.70144844055176e-05,1.37090682983398e-06,0,0.000333348900312558,4.75843735330272e-05
-"673","Los Muermos","Llanquihue","Región de Los Lagos",4.70876693725586e-05,7.54992186102754e-07,3.97364310344983e-08,0.00032983222627081,3.4550826967461e-05
-"674","Llanquihue","Llanquihue","Región de Los Lagos",2.32060756388819e-05,1.58945724137993e-07,3.3775964425331e-07,0.000295877456665039,3.42925377481151e-05
-"675","Llanquihue","Llanquihue","Región de Los Lagos",5.78165054321289e-06,0,4.56968933804092e-07,0.000321606785291806,0.000140984848258086
-"676","Maullín","Llanquihue","Región de Los Lagos",8.31683501019143e-05,5.76178251776582e-07,0,0.00037461519241333,2.26497650146484e-05
-"677","Puerto Varas","Llanquihue","Región de Los Lagos",2.26497650146484e-05,3.97364310344983e-08,1.94311141967773e-05,0.000290393829345703,0.00053250789642334
-"678","Puerto Varas","Llanquihue","Región de Los Lagos",4.35312576883007e-05,5.5630999895584e-07,4.70876693725586e-06,0.00022705395531375,0.000575244426727295
-"679","Puerto Varas","Llanquihue","Región de Los Lagos",5.04652643940062e-06,0,9.33806120428926e-07,0.000428001076215878,0.000442206859588623
-"680","Puerto Varas","Llanquihue","Región de Los Lagos",7.78834055381594e-06,0,1.78813934326172e-07,0.000347057968610898,0.000525454699527472
-"681","Puerto Varas","Llanquihue","Región de Los Lagos",2.15967502299463e-05,3.97364310344983e-08,1.98682155172492e-08,0.0002591808733996,0.000541607558261603
-"682","Puerto Varas","Llanquihue","Región de Los Lagos",4.06503677368164e-05,8.54333222832793e-07,0,0.000172317028045654,0.000553945719730109
-"683","Castro","Chiloe","Región de Los Lagos",NA,NA,NA,NA,NA
-"684","Ancud","Chiloe","Región de Los Lagos",0.000189006328582764,2.38418579101562e-07,0,0.00054776668548584,3.74913215637207e-05
-"685","Ancud","Chiloe","Región de Los Lagos",0.000137448310852051,7.94728578057402e-07,0,0.000457624584669247,1.49408979268628e-05
-"686","Chonchi","Chiloe","Región de Los Lagos",0.000288466602796689,5.96046447753906e-07,0,0.000584026158321649,0.000113228954432998
-"687","Chonchi","Chiloe","Región de Los Lagos",0.000280102103715762,2.06629442800477e-06,0,0.000570635020267218,0.0001220703125
-"688","Chonchi","Chiloe","Región de Los Lagos",0.000364840030670166,9.15924738364993e-06,0,0.00049612921429798,9.50892790569924e-05
-"689","Curaco de Vélez","Chiloe","Región de Los Lagos",NA,NA,NA,NA,NA
-"690","Dalcahue","Chiloe","Región de Los Lagos",0.000235537692788057,2.18550368913384e-07,0,0.000597000122070312,7.23004341125488e-05
-"691","Dalcahue","Chiloe","Región de Los Lagos",0.000242729976889677,1.39077508265473e-06,0,0.000490029633510858,4.8220157623291e-05
-"692","Puqueldón","Chiloe","Región de Los Lagos",NA,NA,NA,NA,NA
-"693","Queilén","Chiloe","Región de Los Lagos",NA,NA,NA,NA,NA
-"694","Quellón","Chiloe","Región de Los Lagos",0.000240564346313477,9.73542569226993e-07,0,0.000535627186764032,0.000146150588989258
-"695","Quellón","Chiloe","Región de Los Lagos",0.000503877818118781,7.37110758564086e-06,0,0.000529905140865594,0.000147740051033907
-"696","Quellón","Chiloe","Región de Los Lagos",0.000116288661956787,3.63588333129883e-06,0,0.00058160227490589,0.000181913375854492
-"697","Quellón","Chiloe","Región de Los Lagos",0.000310997158521786,8.22544097900391e-06,0,0.000590244948398322,0.000211834907531738
-"698","Quellón","Chiloe","Región de Los Lagos",0.000573277473449707,1.45634012369555e-05,0,0.000584522902499884,0.000213404491660185
-"699","Quemchi","Chiloe","Región de Los Lagos",0.000104248523712158,3.71535611520812e-06,0,0.000451425701612607,2.44776401814306e-05
-"700","Quemchi","Chiloe","Región de Los Lagos",0.000203092888114043,5.1657357289514e-06,0,0.000443379074567929,3.96768264181446e-05
-"701","Quinchao","Chiloe","Región de Los Lagos",0.000375529140001163,4.64916229248047e-06,0,0.000453074782853946,6.49094581604004e-05
-"702","Quinchao","Chiloe","Región de Los Lagos",0.000339289515977725,4.90744923808961e-06,0,0.000452915817731991,0.000120401382446289
-"703","Osorno","Osorno","Región de Los Lagos",NA,NA,NA,NA,NA
-"704","Puerto Octay","Osorno","Región de Los Lagos",2.30471300710633e-06,0,2.38418579101562e-07,0.000229756042244844,9.58045347942971e-05
-"705","Puerto Octay","Osorno","Región de Los Lagos",2.96036409963563e-06,0,1.11261999791168e-06,0.000293056160444394,0.000298639148240909
-"706","Puerto Octay","Osorno","Región de Los Lagos",7.45058059692383e-06,0,1.27553939819336e-05,0.0002673665585462,0.000412861496442929
-"707","Purranque","Osorno","Región de Los Lagos",3.58025245077442e-05,0,0,0.000374813884263858,6.83466569171287e-05
-"708","Purranque","Osorno","Región de Los Lagos",4.48226928710938e-05,0,0,0.000287135451799259,2.43584308918798e-05
-"709","Purranque","Osorno","Región de Los Lagos",3.83456563213258e-06,0,4.96705354180449e-07,0.000264445930952206,8.64068642840721e-05
-"710","Puyehue","Osorno","Región de Los Lagos",3.33786010742188e-06,0,5.5630999895584e-07,0.000196794673684053,0.000212669372558594
-"711","Puyehue","Osorno","Región de Los Lagos",6.35782862445922e-06,0,1.26163167806226e-05,0.000274976104265079,0.000379304081434384
-"712","Puyehue","Osorno","Región de Los Lagos",2.15967502299463e-05,3.97364310344983e-08,1.92721690837061e-05,0.000298202037811279,0.000499288260471076
-"713","Puyehue","Osorno","Región de Los Lagos",3.98755073547363e-05,1.3907749973896e-07,4.17232513427734e-06,0.000231166675803252,0.000560641288757324
-"714","Río Negro","Osorno","Región de Los Lagos",2.76764239970362e-05,0,0,0.000434041023254395,4.96109314553905e-05
-"715","Río Negro","Osorno","Región de Los Lagos",3.55442352883983e-05,1.58945724137993e-07,0,0.000300208717817441,2.3682912797085e-05
-"716","Río Negro","Osorno","Región de Los Lagos",2.6126703232876e-05,0,0,0.000247935444349423,3.92993279092479e-05
-"717","San Juan de la Costa","Osorno","Región de Los Lagos",1.74442920979345e-05,1.13248825073242e-06,0,0.00028814873076044,2.89678573608398e-05
-"718","San Pablo","Osorno","Región de Los Lagos",8.78175069374265e-06,9.73542569226993e-07,0,0.000235259532928467,4.47233505838085e-05
-"719","San Pablo","Osorno","Región de Los Lagos",1.72853469848633e-06,0,2.58286803500596e-07,0.000179966285941191,7.97112807049416e-05
-"720","Chaitén","Palena","Región de Los Lagos",5.67833594686817e-05,1.3907749973896e-07,0,0.000578383624088019,0.000479757785797119
-"721","Chaitén","Palena","Región de Los Lagos",0.000198443725821562,4.17232513427734e-07,0,0.00062030553817749,0.000523765862453729
-"722","Chaitén","Palena","Región de Los Lagos",0.000476956367492676,1.01327896118164e-06,0,0.000689208507537842,0.000488718331325799
-"723","Chaitén","Palena","Región de Los Lagos",0.000298440456390381,3.51667404174805e-06,0,0.000567376613616943,0.000500023365020752
-"724","Chaitén","Palena","Región de Los Lagos",0.000169734164956026,3.93390655517578e-06,0,0.000400344521040097,0.000507116317749023
-"725","Chaitén","Palena","Región de Los Lagos",0.000707368075381964,1.01327896118164e-06,0,0.000734984874725342,0.000509222329128534
-"726","Chaitén","Palena","Región de Los Lagos",0.000461757183074951,4.13258885600953e-06,0,0.000551501929294318,0.000492076098453254
-"727","Chaitén","Palena","Región de Los Lagos",0.000223418071982451,4.21206141254515e-06,0,0.000377774238586426,0.000453730433946475
-"728","Chaitén","Palena","Región de Los Lagos",0.000770548998843879,1.52985251133941e-06,0,0.000761409581173211,0.000536719977390021
-"729","Chaitén","Palena","Región de Los Lagos",0.000499645888339728,3.11930966745422e-06,0,0.000566422939300537,0.000521381676662713
-"730","Chaitén","Palena","Región de Los Lagos",0.00026216110563837,3.17891431222961e-06,0,0.000393529742723331,0.000483274459838867
-"731","Chaitén","Palena","Región de Los Lagos",0.000841856002807617,2.6424726456753e-05,5.96046447753906e-08,0.000660041987430304,0.000478088855743408
-"732","Chaitén","Palena","Región de Los Lagos",0.00070267915725708,3.61601519216492e-06,0,0.000722090422641486,0.000583450018893927
-"733","Chaitén","Palena","Región de Los Lagos",0.000455617904663086,4.52995300292969e-06,0,0.000537912070285529,0.000574151694308966
-"734","Chaitén","Palena","Región de Los Lagos",0.000698308169376105,8.34465026855469e-06,0,0.000672002614010125,0.000570555508602411
-"735","Chaitén","Palena","Región de Los Lagos",0.000446001678938046,7.58965825298219e-06,3.97364310344983e-08,0.000534176826477051,0.000525732815731317
-"736","Futaleufú","Palena","Región de Los Lagos",0.000112851463200059,1.43051147460938e-06,0,0.000262339919572696,0.000351210444932804
-"737","Futaleufú","Palena","Región de Los Lagos",4.53392676718067e-05,1.13248825073242e-06,0,0.000164210796356201,0.000259220600128174
-"738","Hualaihué","Palena","Región de Los Lagos",3.53256873495411e-05,2.98023223876953e-07,0,0.000409464031690732,0.000611205876339227
-"739","Hualaihué","Palena","Región de Los Lagos",0.000100056327937637,1.82787573521637e-06,0,0.000427206367021427,0.000574131787288934
-"740","Palena","Palena","Región de Los Lagos",0.000283877045148984,3.59614682565734e-06,0,0.000418186187744141,0.000522653281223029
-"741","Palena","Palena","Región de Los Lagos",0.00014960765838623,2.22523999582336e-06,0,0.000291268021101132,0.000337163597578183
-"742","Palena","Palena","Región de Los Lagos",0.000278234481811523,6.61611557006836e-06,3.97364310344983e-08,0.000420928001403809,0.000482002884382382
-"743","Palena","Palena","Región de Los Lagos",0.000187893703696318,3.59614682565734e-06,0,0.000304102897644043,0.000415921211242676
-"744","Palena","Palena","Región de Los Lagos",8.61485823406838e-05,4.19219350078492e-06,0,0.000186264514923096,0.000264406204223633
-"745","Palena","Palena","Región de Los Lagos",9.71953049884178e-05,1.02917356343823e-05,0,0.000192701816558838,0.000253578036790714
-"746","Coyhaique","Coyhaique","Región de Aysén del Gral. Ibañez del Campo",5.04851341247559e-05,1.53581295307958e-05,0,0.000296751648420468,0.00017780065536499
-"747","Coyhaique","Coyhaique","Región de Aysén del Gral. Ibañez del Campo",3.15308570861816e-05,8.0267591329175e-06,0,0.000197052955627441,0.000134666755911894
-"748","Coyhaique","Coyhaique","Región de Aysén del Gral. Ibañez del Campo",6.33994714007713e-05,2.12192535400391e-05,9.93410722571753e-08,0.00027310848236084,0.000140786170959473
-"749","Coyhaique","Coyhaique","Región de Aysén del Gral. Ibañez del Campo",3.53256873495411e-05,1.21990842671948e-05,5.96046447753906e-08,0.000175138309714384,0.000101387500762939
-"750","Coyhaique","Coyhaique","Región de Aysén del Gral. Ibañez del Campo",4.13258885600953e-06,3.27825546264648e-06,0,9.89437103271484e-05,6.38365745544434e-05
-"751","Coyhaique","Coyhaique","Región de Aysén del Gral. Ibañez del Campo",6.62803649902344e-05,2.10404396057129e-05,1.78813934326172e-07,0.000280936568742618,0.00012687842536252
-"752","Coyhaique","Coyhaique","Región de Aysén del Gral. Ibañez del Campo",3.55045012838673e-05,1.16229057312012e-05,7.94728620689966e-08,0.00017873446631711,0.000107785068394151
-"753","Coyhaique","Coyhaique","Región de Aysén del Gral. Ibañez del Campo",4.41074371337891e-06,2.84115481008484e-06,1.98682155172492e-08,0.000102758407592773,7.04526901245117e-05
-"754","Coyhaique","Coyhaique","Región de Aysén del Gral. Ibañez del Campo",0.00014247496437747,7.15653077349998e-05,3.99351119995117e-06,0.000656723976135254,8.05060044513084e-05
-"755","Coyhaique","Coyhaique","Región de Aysén del Gral. Ibañez del Campo",7.27574006305076e-05,3.36170196533203e-05,3.71535611520812e-06,0.000457485526567325,7.99496992840432e-05
-"756","Coyhaique","Coyhaique","Región de Aysén del Gral. Ibañez del Campo",2.15768814086914e-05,1.07884407043457e-05,1.98682144514351e-07,0.000304758548736572,7.4187912105117e-05
-"757","Coyhaique","Coyhaique","Región de Aysén del Gral. Ibañez del Campo",4.56770249002147e-05,3.08950729959179e-05,2.26497650146484e-06,0.000488619029056281,4.24981117248535e-05
-"758","Coyhaique","Coyhaique","Región de Aysén del Gral. Ibañez del Campo",1.10864639282227e-05,6.9737434387207e-06,9.93410722571753e-08,0.000325679779052734,5.07036857015919e-05
-"759","Coyhaique","Coyhaique","Región de Aysén del Gral. Ibañez del Campo",4.98692179462523e-06,3.07957338918641e-06,3.97364310344983e-08,0.000213523700949736,4.37100716226269e-05
-"760","Lago Verde","Coyhaique","Región de Aysén del Gral. Ibañez del Campo",0.000210165977478027,1.01129217000562e-05,0,0.000300784915452823,0.000375171512132511
-"761","Lago Verde","Coyhaique","Región de Aysén del Gral. Ibañez del Campo",0.00010313590610167,3.45706939697266e-06,0,0.000316262245178223,0.00027763843536377
-"762","Lago Verde","Coyhaique","Región de Aysén del Gral. Ibañez del Campo",0.000220994159462862,3.74317169189453e-05,0,0.000481784343719482,0.000441809504991397
-"763","Lago Verde","Coyhaique","Región de Aysén del Gral. Ibañez del Campo",0.000102063022495713,9.93410776573e-06,0,0.000347216933732852,0.000353415816789493
-"764","Lago Verde","Coyhaique","Región de Aysén del Gral. Ibañez del Campo",4.86771277792286e-05,3.59614682565734e-06,0,0.000214636325836182,0.000221133232116699
-"765","Lago Verde","Coyhaique","Región de Aysén del Gral. Ibañez del Campo",1.69277191162109e-05,1.15235650355316e-06,0,0.000117580093501601,0.000140666961669922
-"766","Lago Verde","Coyhaique","Región de Aysén del Gral. Ibañez del Campo",5.86112355449586e-06,1.3907749973896e-07,0,5.11407852172852e-05,7.94331208453514e-05
-"767","Lago Verde","Coyhaique","Región de Aysén del Gral. Ibañez del Campo",0.000185767814400606,3.96966934204102e-05,0,0.000468134880065918,0.00033646821975708
-"768","Lago Verde","Coyhaique","Región de Aysén del Gral. Ibañez del Campo",8.8771186710801e-05,1.50601072164136e-05,0,0.000336329132551327,0.000292340904707089
-"769","Lago Verde","Coyhaique","Región de Aysén del Gral. Ibañez del Campo",4.12265471823048e-05,7.31150294086547e-06,0,0.000217437744140625,0.000192582607269287
-"770","Lago Verde","Coyhaique","Región de Aysén del Gral. Ibañez del Campo",6.41743326923461e-06,3.97364289028701e-07,0,6.18894919170998e-05,6.72340393066406e-05
-"771","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000240008041146211,1.89741458598292e-05,0,0.000916441262234002,4.0888786315918e-05
-"772","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.00021036465477664,1.55766811076319e-05,7.94728620689966e-08,0.000964879989624023,2.73784007731592e-05
-"773","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000213185950997286,7.0730843617639e-06,2.18550368913384e-07,0.000934978306759149,3.55442352883983e-05
-"774","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000278929859632626,4.20808792114258e-05,1.33117043787934e-06,0.000946998596191406,3.73522452719044e-05
-"775","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000394304603105411,7.32938424334861e-05,9.93410722571753e-08,0.000867744267452508,0.000192562743905
-"776","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000311017036437988,6.64989129290916e-05,4.37100737826768e-07,0.000777383625973016,0.000183780983206816
-"777","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000198662281036377,6.05980567343067e-05,2.38418579101562e-07,0.000591536343563348,0.000181198120117188
-"778","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000123918056488037,4.7663848818047e-05,2.38418579101562e-07,0.000431080668931827,0.000177701309439726
-"779","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000240008041146211,7.36117362976074e-05,4.98692179462523e-06,0.00131281220819801,7.84794519859133e-06
-"780","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000198384121176787,1.16825103759766e-05,2.98023223876953e-07,0.00104437267873436,3.87231521017384e-05
-"781","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.00046418109559454,9.49700697674416e-05,1.27156579310395e-06,0.00101953744888306,6.89824446453713e-05
-"782","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000431438296800479,7.62740746722557e-05,1.78813934326172e-07,0.000931421935092658,0.000117878116725478
-"783","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000291446835035458,7.30156898498535e-05,7.15255737304688e-07,0.000779171765316278,0.000125745937111787
-"784","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000181217983481474,5.80350570089649e-05,2.44379043579102e-06,0.000591913878452033,0.000140686825034209
-"785","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000106970466731582,4.5220058382256e-05,2.44379043579102e-06,0.000432252883911133,0.000137070819619112
-"786","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000213106468436308,9.64204446063377e-05,7.15255737304688e-06,0.00164576375391334,1.07487039713305e-05
-"787","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000135163470986299,1.32918357849121e-05,3.97364310344983e-08,0.0012858510017395,4.61737326986622e-05
-"788","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000229120254516602,2.92658805847168e-05,3.97364310344983e-08,0.00117687380407006,5.54124526388478e-05
-"789","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000428140163421631,4.28954772360157e-05,7.94728620689966e-08,0.00115841627120972,5.74986152059864e-05
-"790","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.00046418109559454,7.37110749469139e-05,2.38418579101562e-07,0.0011519193649292,4.9591064453125e-05
-"791","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.00041298070573248,9.34004783630371e-05,4.76837158203125e-07,0.00104161107446998,4.81804199807812e-05
-"792","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000242849186179228,9.65793951763771e-05,1.2516975402832e-06,0.00085349875735119,6.23663290753029e-05
-"793","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000233312443015166,0.000154376029968262,2.07821522053564e-05,0.0015181303024292,2.85108890238917e-05
-"794","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000208715602639131,8.19166525616311e-05,5.58296824237914e-06,0.00150813662912697,4.2517978727119e-05
-"795","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000155627727508545,3.88820953958202e-05,8.94069671630859e-07,0.00153551495168358,4.19815369241405e-05
-"796","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",9.395679080626e-05,1.17619829325122e-05,1.98682144514351e-07,0.00157064199447632,4.33723143942188e-05
-"797","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000129918262246065,2.32656802836573e-05,8.74201475653535e-07,0.00144090258982033,4.92533035867382e-05
-"798","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000223537281272002,4.1445095121162e-05,8.94069671630859e-07,0.00132348143961281,5.8591365814209e-05
-"799","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000374853610992432,8.57512131915428e-05,2.18550368913384e-07,0.00127607583999634,5.23726157553028e-05
-"800","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000402490288252011,0.00012256701302249,7.94728578057402e-07,0.00121448433492333,4.8001606046455e-05
-"801","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000353952258592471,0.000142395496368408,1.01327896118164e-06,0.00110288464929909,4.5994918764336e-05
-"802","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000184178352355957,0.00019200642418582,4.736582559417e-05,0.00143915414810181,1.67489051818848e-05
-"803","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000152548149344511,7.0373214839492e-05,1.3887882232666e-05,0.00138771533966064,4.98493500344921e-05
-"804","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000143468379974365,1.71065330505371e-05,8.34465026855469e-07,0.00137017166707665,7.86582604632713e-05
-"805","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000141461685416289,4.11272048950195e-06,5.16573607001192e-07,0.00136876106262207,0.000103394188045058
-"806","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000172952815773897,4.50611114501953e-05,2.72194552053406e-06,0.001395583152771,6.47505148663186e-05
-"807","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000265200942521915,9.92019995464943e-05,2.70207715402648e-06,0.00138401985168457,3.85046005249023e-05
-"808","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000420014053815976,0.000164806842803955,4.37100737826768e-07,0.00133353471755981,2.67624855041504e-05
-"809","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000388860702514648,0.000180443123099394,2.66234087575867e-06,0.00123264396097511,3.3259391784668e-05
-"810","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",9.37382355914451e-05,2.20139827433741e-05,4.92731714984984e-06,0.00122263038065284,8.88506547198631e-05
-"811","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.00011676549911499,2.76366863545263e-05,2.72194552053406e-06,0.00130927562713623,3.57429198629688e-05
-"812","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",9.32216644287109e-05,1.60733852681005e-05,3.77496093051377e-07,0.00133289897348732,6.82671889080666e-05
-"813","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000112831592559814,1.42057733683032e-05,2.58286803500596e-07,0.00134724378585815,9.600321209291e-05
-"814","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000171283885720186,1.47024793477613e-05,5.36441802978516e-07,0.00134756171610206,0.000119407974125352
-"815","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000265538692474365,8.33670274005271e-05,2.24510836233094e-06,0.00130812323186547,0.000103751815913711
-"816","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000353376060957089,0.000140448406455107,2.60273623098328e-06,0.00129791104700416,7.37706795916893e-05
-"817","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000435173511505127,0.000185489654541016,1.49011611938477e-06,0.00131710374262184,3.00208721455419e-05
-"818","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000298678874969482,0.000119149684906006,7.54992186102754e-07,0.00119759642984718,1.56958903971827e-05
-"819","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",8.13603401184082e-05,5.79953193664551e-05,1.75237655639648e-05,0.00101369619369507,4.66704368591309e-05
-"820","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000119050346256699,8.2850456237793e-05,1.9868214167218e-06,0.00131209695246071,5.6147575378418e-05
-"821","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000156005218741484,8.56916085467674e-05,8.54333222832793e-07,0.00131485855672508,9.1890491603408e-05
-"822","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.00022915999579709,0.000126739338156767,1.62919366175629e-06,0.00129395723342896,0.000105659164546523
-"823","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000325997680192813,0.000204046562430449,3.59614682565734e-06,0.00125106179621071,0.000101884208561387
-"824","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000457187503343448,0.000358223915100098,5.14586781719117e-06,0.00127492344472557,8.64466055645607e-05
-"825","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000472346931928769,0.000364402920240536,4.39087534687133e-06,0.00123810768127441,5.47170639038086e-05
-"826","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000424861907958984,0.00040767589234747,5.40415430805297e-06,0.00122841203119606,8.66850241436623e-05
-"827","Aysén","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000422040611738339,0.000399251788621768,5.24520874023438e-06,0.00117800629232079,5.78959770791698e-05
-"828","Cisnes","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000723083794582635,2.41994857788086e-05,0,0.000797073065768927,0.000532686710357666
-"829","Cisnes","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000745197117794305,2.63651218119776e-05,0,0.000794867693912238,0.00064329308224842
-"830","Cisnes","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000484248012071475,3.00010051432764e-05,7.94728620689966e-08,0.000608623027801514,0.000547428906429559
-"831","Cisnes","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000309308379655704,2.3166337996372e-05,7.94728620689966e-08,0.000445763260358945,0.000454107910627499
-"832","Cisnes","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.00017907221626956,7.62939453125e-06,0,0.000890354334842414,7.67906531109475e-05
-"833","Cisnes","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000581800937652588,3.97165604226757e-05,0,0.00076349574374035,0.000463525444502011
-"834","Cisnes","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000567277253139764,4.81009483337402e-05,0,0.000771482766140252,0.000623484433162957
-"835","Cisnes","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000387410313123837,4.02728728658985e-05,0,0.000630279362667352,0.000577191531192511
-"836","Cisnes","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000233848884818144,2.48551368713379e-05,0,0.000479062407976016,0.000460565090179443
-"837","Cisnes","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000183482959982939,3.66568565368652e-05,2.58286803500596e-07,0.000941991806030273,2.00470294657862e-05
-"838","Cisnes","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000155727073433809,9.29832458496094e-06,1.98682155172492e-08,0.000835418701171875,2.54114474955713e-05
-"839","Cisnes","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000115156173706055,4.78823994853883e-06,0,0.000811874866485596,6.35385513305664e-05
-"840","Cisnes","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000149786472320557,7.39097595214844e-06,0,0.000799715518951416,8.61883163452148e-05
-"841","Cisnes","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000565608323086053,6.97175637469627e-05,0,0.000800708949100226,0.000402311474317685
-"842","Cisnes","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000456670910352841,7.43865966796875e-05,0,0.000766297162044793,0.000524461269378662
-"843","Cisnes","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000352005154127255,5.6664150179131e-05,0,0.000625510991085321,0.000520467758178711
-"844","Cisnes","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000168085098266602,2.67823543254053e-05,2.7815499947792e-07,0.000900586426723748,3.68754081137013e-05
-"845","Cisnes","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000134587287902832,7.45058059692383e-06,5.96046447753906e-08,0.000826795876491815,3.47892455465626e-05
-"846","Cisnes","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000491917133331299,5.71608543395996e-05,0,0.000937402248382568,0.00016734997916501
-"847","Cisnes","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000496486842166632,5.9147674619453e-05,0,0.000911911309231073,0.0002744396624621
-"848","Cisnes","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000269512325758114,5.4478645324707e-05,0,0.000648319721221924,0.000365893036359921
-"849","Cisnes","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000175714492797852,1.13248825073242e-05,7.94728620689966e-08,0.000907599925994873,4.04914208047558e-05
-"850","Cisnes","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000395715236663818,6.63797036395408e-05,1.98682155172492e-08,0.000944574654567987,0.00015584628272336
-"851","Cisnes","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000400205462938175,6.82870522723533e-05,1.98682155172492e-08,0.000919103622436523,0.000262459128862247
-"852","Cisnes","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000315427780151367,6.46114349365234e-05,4.37100737826768e-07,0.000830550969112664,0.0002591808733996
-"853","Cisnes","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000208854675292969,5.65449408895802e-05,1.19209289550781e-07,0.000636378943454474,0.000249703734880313
-"854","Cisnes","Aysén","Región de Aysén del Gral. Ibañez del Campo",0.000125507518532686,4.18821982748341e-05,1.19209289550781e-07,0.000456929206848145,0.000220417976379395
-"855","Guaitecas","Aysén","Región de Aysén del Gral. Ibañez del Campo",NA,NA,NA,NA,NA
-"856","Cochrane","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",3.0219554901123e-05,2.19742451008642e-05,1.98682155172492e-08,0.000479261070722714,2.00867652893066e-05
-"857","Cochrane","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",2.39411983784521e-05,1.79608668986475e-05,1.98682155172492e-08,0.000382840633392334,2.78155002888525e-05
-"858","Cochrane","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",1.97291374206543e-05,8.30491353553953e-06,0,0.000295480102067813,2.76962909993017e-05
-"859","Cochrane","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000144561126944609,0.000150819614646025,1.01327896118164e-06,0.000824451446533203,1.37090682983398e-05
-"860","Cochrane","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",6.72141686663963e-05,6.48895875201561e-05,4.37100737826768e-07,0.000666280568111688,6.55651092529297e-06
-"861","Cochrane","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",5.76774291403126e-05,3.2961368560791e-05,1.5695890169809e-06,0.000561217486392707,1.04705495687085e-05
-"862","Cochrane","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",4.20411415689159e-05,3.06367874145508e-05,6.1591464373123e-07,0.000448485225206241,9.7354250101489e-06
-"863","Cochrane","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",3.57230492227245e-05,2.64445934590185e-05,6.1591464373123e-07,0.000352581351762637,1.72853469848633e-05
-"864","Cochrane","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000135064125061035,0.00016629695892334,5.96046447753906e-07,0.000724891840945929,2.87493076029932e-05
-"865","Cochrane","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000111699104309082,0.000132819011923857,5.42402267456055e-06,0.000593145668972284,1.86363849934423e-05
-"866","Cochrane","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000101844467280898,0.000101288162113633,6.67572021484375e-06,0.000487784534925595,2.20537185668945e-05
-"867","Cochrane","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",7.75456428527832e-05,8.7002910731826e-05,3.63588333129883e-06,0.000389933586120605,1.60336494445801e-05
-"868","Cochrane","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.00019150972366333,0.000353197247022763,9.61621572059812e-06,0.000589489936828613,6.64591789245605e-05
-"869","Cochrane","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000149726867675781,0.000260988861555234,7.5300536082068e-06,0.000458498805528507,4.1663646697998e-05
-"870","Cochrane","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",9.04599801287986e-05,0.00015230973076541,3.75509262084961e-06,0.000358502060407773,1.94708500202978e-05
-"871","O'Higgins","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000229597091674805,0.00064949196530506,1.36494636535645e-05,0.0006071527604945,9.34799536480568e-05
-"872","O'Higgins","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000186006232979707,0.000551362812984735,1.0232130989607e-05,0.000475823879241943,6.7293643951416e-05
-"873","O'Higgins","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",9.8447002528701e-05,0.000344157218933105,7.80820846557617e-06,0.000347276538377628,3.08354683511425e-05
-"874","O'Higgins","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000296453625196591,0.00105470418930054,6.75121918902732e-05,0.000628252804744989,9.95596274151467e-05
-"875","O'Higgins","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000165681049111299,0.00074259442044422,2.3980936020962e-05,0.000430186599260196,5.99225350015331e-05
-"876","O'Higgins","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",9.28441659198143e-05,0.000507950782775879,1.52190523294848e-05,0.000281115382676944,3.06169204122853e-05
-"877","O'Higgins","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000484983116621152,0.00158951675985008,9.73145142779686e-05,0.0008736252784729,7.31945037841797e-05
-"878","O'Higgins","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000280976295471191,0.00114319717977196,5.53528479940724e-05,0.000623027503024787,3.35176773660351e-05
-"879","O'Higgins","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.00011297067248961,0.000729501247406006,1.61528587341309e-05,0.000384529441362247,1.13447504190844e-05
-"880","O'Higgins","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",8.18769112811424e-05,0.000547945499420166,1.40070915222168e-05,0.000253081321716309,9.7354250101489e-06
-"881","O'Higgins","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.00047767162322998,0.00159323215484619,5.37435225851368e-05,0.000856002152431756,7.5260795711074e-05
-"882","O'Higgins","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000268836825853214,0.00111687183380127,2.47955322265625e-05,0.000601311505306512,2.96036396321142e-05
-"883","O'Higgins","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",9.91622582660057e-05,0.000673035799991339,4.86771250507445e-06,0.00035969415330328,5.36441802978516e-06
-"884","O'Higgins","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000581403553951532,0.00175281369592994,7.35918656573631e-05,0.000800291716586798,8.14000741229393e-05
-"885","O'Higgins","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000273764133453369,0.00117498636245728,2.11596488952637e-05,0.000517865002620965,2.2590160369873e-05
-"886","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000356316566467285,0.000347038119798526,2.12589907278016e-06,0.00122145807836205,0.000114162765385117
-"887","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000313162803649902,0.000691990077029914,1.33713083414477e-05,0.00132900476455688,0.000154395893332548
-"888","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000334242969984189,0.000519295514095575,2.10603070627258e-06,0.00118052959442139,0.000160773590323515
-"889","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000369489192962646,0.000502248585689813,3.47693753610656e-06,0.00115958845708519,0.000115633010864258
-"890","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000308374554151669,0.000353733688825741,2.62260437011719e-06,0.00103857123758644,5.63065223104786e-05
-"891","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000302433967590332,0.00085139274597168,9.63608454185305e-06,0.0011934241047129,0.000181217983481474
-"892","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000291546195512637,0.000596006691921502,2.28484464059875e-06,0.00114134943578392,0.000152806445839815
-"893","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000272353499894962,0.000413358211517334,8.94069671630859e-07,0.00101681554224342,0.000101347766758408
-"894","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.00021157662558835,0.000265379756456241,5.96046447753906e-08,0.000896314799319953,4.22199555032421e-05
-"895","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000376502663129941,0.000633656978607178,6.54260293231346e-05,0.00110554695129395,0.000106453895568848
-"896","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000300168991088867,0.000977516174316406,2.42392216023291e-05,0.00116252899169922,0.000160833194968291
-"897","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000277260929578915,0.000913282216060907,8.82148742675781e-06,0.00113276636693627,0.000150402382132597
-"898","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000267008930677548,0.000664214312564582,3.1590461730957e-06,0.00109801685903221,0.000112156070827041
-"899","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000247716903686523,0.000480055809020996,3.95377492168336e-06,0.000966548919677734,6.75519331707619e-05
-"900","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000247140735154971,0.000439763069152832,1.37289362101001e-05,0.000874598801601678,7.26779326214455e-05
-"901","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000214735671761446,0.000386575848096982,4.82797622680664e-06,0.000720600306522101,7.65124932513572e-05
-"902","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000513871491421014,0.000860293686855584,7.93536528362893e-05,0.00112191832158715,0.00012920300650876
-"903","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000323375075822696,0.000999371171928942,2.6702880859375e-05,0.00115593278314918,0.00012920300650876
-"904","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000300407409667969,0.000935494899749756,1.14043550638598e-05,0.0011261502513662,0.000118831791041885
-"905","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000321904808515683,0.000890056311618537,5.56310033061891e-06,0.00107324123382568,0.000120540462376084
-"906","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000321149826049805,0.000903050124179572,6.61611557006836e-05,0.000919898331630975,0.00013047456741333
-"907","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000309606402879581,0.000827987969387323,4.09285239584278e-05,0.000763456046115607,0.000132580593344755
-"908","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000699917494785041,0.000870664895046502,7.08897932781838e-05,0.00104924046900123,0.000155945614096709
-"909","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000592430413234979,0.000936369120609015,5.92867545492481e-05,0.00116995966527611,0.000172118350747041
-"910","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000385741383070126,0.00100139772985131,1.38084096761304e-05,0.00116294622421265,0.000147541359183379
-"911","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000470360129838809,0.00122817361261696,7.92741775512695e-06,0.00109916925430298,0.000185171767952852
-"912","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000471591949462891,0.0013741651782766,6.93202018737793e-05,0.00101538503076881,0.000191092491149902
-"913","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000448783248430118,0.00143078959081322,0.000105241932033096,0.000928521156311035,0.000159859657287598
-"914","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000406563282012939,0.00129514932632446,0.000111818313598633,0.000800271809566766,0.000150938823935576
-"915","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000663459300994873,0.000833789526950568,5.65449408895802e-05,0.000884314358700067,0.000126500919577666
-"916","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000559846579562873,0.00108140707015991,3.81271056539845e-05,0.00118329131510109,0.00013097126793582
-"917","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000658929347991943,0.00176105892751366,5.88695220358204e-05,0.00111122929956764,0.000177284076926298
-"918","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000655233860015869,0.00186896324157715,9.1254711151123e-05,0.00104892253875732,0.000123679637908936
-"919","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.00076846283627674,0.00114065408706665,0.000178257629158907,0.00102184212300926,0.000148852661368437
-"920","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.000735700130462646,0.001914381980896,9.5367431640625e-05,0.00110004341695458,0.000230411693337373
-"921","Tortel","Capitán Prat","Región de Aysén del Gral. Ibañez del Campo",0.00071108341217041,0.00193587935063988,0.000107447303889785,0.00104896223638207,0.000183622047188692
-"922","Chile Chico","General Carrera","Región de Aysén del Gral. Ibañez del Campo",1.31130218505859e-06,5.5630999895584e-07,3.97364310344983e-08,0.000310917705064639,6.40153884887695e-05
-"923","Chile Chico","General Carrera","Región de Aysén del Gral. Ibañez del Campo",3.57627868652344e-07,1.98682144514351e-07,2.38418579101562e-07,0.000219504043343477,6.48299828753807e-05
-"924","Chile Chico","General Carrera","Región de Aysén del Gral. Ibañez del Campo",0.000294407218461856,0.000147898987052031,9.33806120428926e-07,0.00107757246587425,1.14838285298902e-05
-"925","Chile Chico","General Carrera","Región de Aysén del Gral. Ibañez del Campo",0.000159780189278536,7.70886763348244e-05,3.3775964425331e-07,0.00085206824587658,1.01129217000562e-05
-"926","Chile Chico","General Carrera","Región de Aysén del Gral. Ibañez del Campo",5.35647086508106e-05,2.83718109130859e-05,1.78813934326172e-07,0.000608623027801514,1.88151989277685e-05
-"927","Chile Chico","General Carrera","Región de Aysén del Gral. Ibañez del Campo",3.69946174032521e-05,2.57094707194483e-05,1.3907749973896e-07,0.00047634044312872,3.05771827697754e-05
-"928","Chile Chico","General Carrera","Región de Aysén del Gral. Ibañez del Campo",2.28285789489746e-05,1.6351541489712e-05,0,0.000357886165147647,3.02990283671534e-05
-"929","Chile Chico","General Carrera","Región de Aysén del Gral. Ibañez del Campo",1.52985248860205e-05,6.63598393657594e-06,0,0.000274837017059326,2.42988262471044e-05
-"930","Chile Chico","General Carrera","Región de Aysén del Gral. Ibañez del Campo",0.000210424259421416,0.000155727073433809,1.31130218505859e-06,0.000956455885898322,1.41064329000073e-05
-"931","Chile Chico","General Carrera","Región de Aysén del Gral. Ibañez del Campo",0.000122686222312041,6.73929826007225e-05,2.98023223876953e-07,0.000786403834354132,5.74191426494508e-06
-"932","Chile Chico","General Carrera","Región de Aysén del Gral. Ibañez del Campo",4.31935004598927e-05,2.02059745788574e-05,0,0.000592728436458856,9.91423894447507e-06
-"933","Río Ibáñez","General Carrera","Región de Aysén del Gral. Ibañez del Campo",0.000198443725821562,0.000119566917419434,1.31130218505859e-06,0.000908831774722785,4.95513268106151e-05
-"934","Río Ibáñez","General Carrera","Región de Aysén del Gral. Ibañez del Campo",0.000114281974674668,7.0770583988633e-05,2.50339508056641e-06,0.00069040060043335,4.3888885556953e-05
-"935","Río Ibáñez","General Carrera","Región de Aysén del Gral. Ibañez del Campo",0.000280559062957764,0.000147819519042969,3.33786010742188e-06,0.0010546842822805,3.655751424958e-05
-"936","Río Ibáñez","General Carrera","Región de Aysén del Gral. Ibañez del Campo",0.000104864440800156,7.83403738751076e-05,3.05970502267883e-06,0.000814676284790039,3.78290824301075e-05
-"937","Río Ibáñez","General Carrera","Región de Aysén del Gral. Ibañez del Campo",5.41011504537892e-05,3.61601523763966e-05,1.66893005371094e-06,0.000611583411227912,4.03523445129395e-05
-"938","Río Ibáñez","General Carrera","Región de Aysén del Gral. Ibañez del Campo",2.26895008381689e-05,1.30335492940503e-05,7.35123933282011e-07,0.000457584857940674,4.91340942971874e-05
-"939","Río Ibáñez","General Carrera","Región de Aysén del Gral. Ibañez del Campo",3.79482912649109e-06,1.03314721400238e-06,1.98682155172492e-08,0.000340580940246582,6.36974946246482e-05
-"940","Río Ibáñez","General Carrera","Región de Aysén del Gral. Ibañez del Campo",1.31130218505859e-06,3.57627868652344e-07,0,0.000236570835113525,6.53068200335838e-05
-"941","Río Ibáñez","General Carrera","Región de Aysén del Gral. Ibañez del Campo",0.000173489257576875,6.5922737121582e-05,5.96046447753906e-07,0.00099303328897804,1.73846874531591e-05
-"942","Río Ibáñez","General Carrera","Región de Aysén del Gral. Ibañez del Campo",6.23464584350586e-05,2.89281215373194e-05,1.07288360595703e-06,0.000707626342773438,3.51270027749706e-05
-"943","Río Ibáñez","General Carrera","Región de Aysén del Gral. Ibañez del Campo",3.03586330119288e-05,1.56760215759277e-05,3.97364289028701e-07,0.000516116619110107,4.82400246255565e-05
-"944","Río Ibáñez","General Carrera","Región de Aysén del Gral. Ibañez del Campo",1.05698900370044e-05,6.93400716045289e-06,5.96046447753906e-08,0.000385026127332821,5.78562430746388e-05
-"945","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",4.2478244722588e-05,0.000266710907453671,0.00014390547585208,2.38617267314112e-05,6.57637929180055e-06
-"946","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",0.000389158725738525,0.000706374645233154,0.00135413801763207,0.000202953815460205,0.000174641609191895
-"947","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",0.000412265449995175,0.000723878561984748,0.00140668952371925,0.000233491256949492,0.000151256725075655
-"948","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",0.000459372997283936,0.000830411911010742,0.00143692886922508,0.000346481800079346,0.000185529395821504
-"949","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",3.59018631570507e-05,0.000288565963273868,0.000252803176408634,3.57627868652344e-05,5.36441802978516e-06
-"950","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",0.000573178112972528,0.00101494789123535,0.00169400370214134,0.000668923079501837,0.000320951134199277
-"951","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",0.000119884811283555,0.000583767890930176,0.000883440196048468,0.000249326229095459,5.2849452913506e-05
-"952","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",7.76052474975586e-05,0.000413835048675537,0.000597476959228516,0.000179688140633516,4.40080948465038e-05
-"953","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",6.12338408245705e-05,0.000367045402526855,0.000486711651319638,0.000111122928501572,3.13123055093456e-05
-"954","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",4.65512275695801e-05,0.000316381454467773,0.000382006168365479,6.10550268902443e-05,1.91728267964208e-05
-"955","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",0.000436325877672061,0.000699837983120233,0.00120828545186669,0.000196933746337891,0.000187873840332031
-"956","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",0.000571072101593018,0.000974198163021356,0.00179030501749367,0.000537852465640754,0.0004158616065979
-"957","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",0.000563462555874139,0.000938355922698975,0.001684864400886,0.000619093596469611,0.000434756278991699
-"958","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",0.000216344997170381,0.000684718310367316,0.00115265452768654,0.000459333270555362,0.000158985450980254
-"959","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",0.000153879329445772,0.000559131323825568,0.000946342945098877,0.000339984893798828,0.000117043651698623
-"960","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",0.000118374824523926,0.000472386687761173,0.000785549462307245,0.000304798275465146,8.87513160705566e-05
-"961","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",9.00228842510842e-05,0.000393370777601376,0.000638882338535041,0.000264445930952206,6.9697700382676e-05
-"962","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",7.11480752215721e-05,0.000334680080413818,0.000519553839694709,0.000206649303436279,3.84052582376171e-05
-"963","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",5.28097152709961e-05,0.00028073787689209,0.000402092933654785,0.000134766101837158,1.50601072164136e-05
-"964","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",0.000536779582034796,0.000798126042354852,0.00150281190872192,0.00047556558274664,0.000408470630645752
-"965","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",0.000445206969743595,0.000749508559238166,0.00137152278330177,0.000495870888698846,0.00033867359161377
-"966","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",0.000347693770891055,0.000729660212527961,0.00130544102285057,0.000533203303348273,0.000246087700361386
-"967","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",0.000248591095441952,0.000680168450344354,0.00120188796427101,0.000546554743777961,0.000169197723153047
-"968","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",0.00013075272727292,0.000482400268083438,0.000853617966640741,0.000393688678741455,7.4923038482666e-05
-"969","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",9.93609428405762e-05,0.000368138164049014,0.0006522536277771,0.000250418990617618,4.16437796957325e-05
-"970","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",7.85787924542092e-05,0.000319619983201846,0.00053538876818493,0.000174164772033691,3.40938568115234e-05
-"971","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",6.00417442910839e-05,0.00026758512831293,0.00041906037949957,9.94602814898826e-05,1.50998430399341e-05
-"972","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",6.41544684185646e-05,0.000272035598754883,0.000374416500562802,7.81019552960061e-05,1.08281774373609e-05
-"973","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",0.000385026127332821,0.000723342120181769,0.0012883743038401,0.000381708145141602,0.000244239956373349
-"974","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",0.000321805477142334,0.000736693560611457,0.00128334760665894,0.000452498585218564,0.000194251537322998
-"975","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",0.000235021114349365,0.000672439753543586,0.00116511189844459,0.000475029140943661,0.000127454593894072
-"976","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",0.000206748649361543,0.000525752722751349,0.000960111618041992,0.00053703784942627,0.00011289119720459
-"977","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",0.00017829735588748,0.000475625187391415,0.000807185948360711,0.000376304000383243,0.000126461192849092
-"978","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",0.00015413761138916,0.000328481197357178,0.000471433013444766,0.000122090175864287,3.77694777853321e-05
-"979","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",0.000157952308654785,0.000338534504408017,0.000487784534925595,0.000141302749398164,3.27229499816895e-05
-"980","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",0.000257809966569766,0.00063953798962757,0.00104735291097313,0.000299354403978214,0.000138580799102783
-"981","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",0.000226080417633057,0.000512262166012079,0.000809431076049805,0.000436365604400635,0.00011742115020752
-"982","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",0.00020704667258542,0.000494440377224237,0.00070587795926258,0.000404834747314453,0.000120321907161269
-"983","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",0.000208993747946806,0.000429868698120117,0.000612556934356689,0.000310719013214111,0.000127176448586397
-"984","Punta Arenas","Magallanes","Región de Magallanes y Antártica Chilena",0.000175933048012666,0.000455101340776309,0.000863413035403937,0.000330328941345215,7.00950622558594e-05
-"985","Laguna Blanca","Magallanes","Región de Magallanes y Antártica Chilena",9.11553725018166e-05,0.000366508960723877,4.04715538024902e-05,5.54919242858887e-05,8.74201475653535e-07
-"986","Laguna Blanca","Magallanes","Región de Magallanes y Antártica Chilena",6.82274476275779e-05,0.000295360892778262,2.85903606709326e-05,3.67959328286815e-05,2.7815499947792e-07
-"987","Laguna Blanca","Magallanes","Región de Magallanes y Antártica Chilena",5.32269477844238e-05,0.000246485084062442,2.11795177165186e-05,1.86761226359522e-05,7.94728620689966e-08
-"988","Laguna Blanca","Magallanes","Región de Magallanes y Antártica Chilena",9.26057473407127e-05,0.000426709651947021,8.15987586975098e-05,4.83989715576172e-05,3.65575147043273e-06
-"989","Laguna Blanca","Magallanes","Región de Magallanes y Antártica Chilena",6.56048432574607e-05,0.000355899333953857,6.28034249530174e-05,2.5331974029541e-05,2.28484464059875e-06
-"990","Laguna Blanca","Magallanes","Región de Magallanes y Antártica Chilena",5.98828009970021e-05,0.00029025474213995,4.06106300943065e-05,1.07288360595703e-05,4.37100737826768e-07
-"991","Laguna Blanca","Magallanes","Región de Magallanes y Antártica Chilena",6.47505148663186e-05,0.000340839236741886,0.000117599964141846,2.73386631306494e-05,2.40405393014953e-06
-"992","Laguna Blanca","Magallanes","Región de Magallanes y Antártica Chilena",6.38564451946877e-05,0.000273168087005615,8.28305855975486e-05,1.64508819580078e-05,3.05970502267883e-06
-"993","Laguna Blanca","Magallanes","Región de Magallanes y Antártica Chilena",4.85579184896778e-05,0.000319083541398868,0.000210305050131865,3.42130661010742e-05,7.09295272827148e-06
-"994","Río Verde","Magallanes","Región de Magallanes y Antártica Chilena",0.000469247490400448,0.00111432874109596,0.000758488953579217,0.000542799651157111,0.000171522304299287
-"995","Río Verde","Magallanes","Región de Magallanes y Antártica Chilena",0.000312527030473575,0.000949998677242547,0.000624458014499396,0.000364542007446289,0.00010999044025084
-"996","Río Verde","Magallanes","Región de Magallanes y Antártica Chilena",0.000232795879128389,0.000759144604671746,0.000423232704633847,0.000232060745474882,6.26643522991799e-05
-"997","Río Verde","Magallanes","Región de Magallanes y Antártica Chilena",0.00020521879196167,0.000617563724517822,0.00029069185256958,0.000148793056723662,3.92397232644726e-05
-"998","Río Verde","Magallanes","Región de Magallanes y Antártica Chilena",0.00012687842536252,0.000524580478668213,0.000240008041146211,9.37183722271584e-05,2.19543780985987e-05
-"999","Río Verde","Magallanes","Región de Magallanes y Antártica Chilena",8.45789909362793e-05,0.000416040420532227,0.000145951911690645,5.15977553732228e-05,5.92072819927125e-06
-"1000","Río Verde","Magallanes","Región de Magallanes y Antártica Chilena",0.000695963681209832,0.00126606225967407,0.00139256322290748,0.000755131244659424,0.000384032726287842
-"1001","Río Verde","Magallanes","Región de Magallanes y Antártica Chilena",0.000570575415622443,0.00121357047464699,0.00129220879171044,0.000620226084720343,0.000342190265655518
-"1002","Río Verde","Magallanes","Región de Magallanes y Antártica Chilena",0.000195165470358916,0.000839849293697625,0.000790218531619757,0.000284393638139591,9.86258164630271e-05
-"1003","Río Verde","Magallanes","Región de Magallanes y Antártica Chilena",0.000126381710288115,0.000640372454654425,0.000543077767360955,0.000151415661093779,4.49617691629101e-05
-"1004","Río Verde","Magallanes","Región de Magallanes y Antártica Chilena",8.98241996765137e-05,0.00051504373550415,0.000379800796508789,8.94864424481057e-05,2.20139827433741e-05
-"1005","Río Verde","Magallanes","Región de Magallanes y Antártica Chilena",5.90284653299022e-05,0.000397741794586182,0.000260889530181885,5.14189414388966e-05,6.02006912231445e-06
-"1006","Río Verde","Magallanes","Región de Magallanes y Antártica Chilena",0.000625967979431152,0.0011118451366201,0.00158427155110985,0.000610232353210449,0.000322341918945312
-"1007","Río Verde","Magallanes","Región de Magallanes y Antártica Chilena",0.000657439231872559,0.00120319926645607,0.00166014826390892,0.000729918479919434,0.000371277332305908
-"1008","Río Verde","Magallanes","Región de Magallanes y Antártica Chilena",0.000589589297305793,0.001188357709907,0.00161943829152733,0.000799119472503662,0.000363290309906006
-"1009","Río Verde","Magallanes","Región de Magallanes y Antártica Chilena",0.00044902166700922,0.0010866125812754,0.00147587060928345,0.000696361064910889,0.00029168525361456
-"1010","Río Verde","Magallanes","Región de Magallanes y Antártica Chilena",0.000259856373304501,0.000926971435546875,0.00126345956232399,0.000478804111480713,0.0001775224955054
-"1011","Río Verde","Magallanes","Región de Magallanes y Antártica Chilena",0.000179171562194824,0.000778516114223748,0.00104262435343117,0.000346620887285098,0.000111897788883653
-"1012","Río Verde","Magallanes","Región de Magallanes y Antártica Chilena",0.000114758811832871,0.000615517317783087,0.000806272029876709,0.000216305255889893,5.4260093747871e-05
-"1013","Río Verde","Magallanes","Región de Magallanes y Antártica Chilena",0.000510752201080322,0.00104252493474633,0.00165532028768212,0.000742177187930793,0.000336011260515079
-"1014","Río Verde","Magallanes","Región de Magallanes y Antártica Chilena",0.000398894160753116,0.000949303328525275,0.00149621570017189,0.000621974468231201,0.000275492668151855
-"1015","Río Verde","Magallanes","Región de Magallanes y Antártica Chilena",0.000266492366790771,0.000846068083774298,0.00137654936406761,0.000487307697767392,0.000196278095245361
-"1016","Río Verde","Magallanes","Región de Magallanes y Antártica Chilena",0.000293592602247372,0.000807464122772217,0.00135393941309303,0.000581065833102912,0.000215133026358671
-"1017","San Gregorio","Magallanes","Región de Magallanes y Antártica Chilena",3.72330359823536e-05,0.000165621444466524,1.04705495687085e-05,1.47819519042969e-05,0
-"1018","San Gregorio","Magallanes","Región de Magallanes y Antártica Chilena",5.94258308410645e-05,0.000226477786782198,3.08354683511425e-05,7.70886708778562e-06,4.37100737826768e-07
-"1019","San Gregorio","Magallanes","Región de Magallanes y Antártica Chilena",5.81542662985157e-05,0.000198602676391602,2.41796169575537e-05,6.2783560679236e-06,4.76837158203125e-07
-"1020","San Gregorio","Magallanes","Región de Magallanes y Antártica Chilena",5.41607550985646e-05,0.000190953418496065,1.61727275553858e-05,9.5367431640625e-06,2.58286803500596e-07
-"1021","San Gregorio","Magallanes","Región de Magallanes y Antártica Chilena",5.26309013366699e-05,0.000195046261069365,9.57647989707766e-06,2.60273623098328e-06,1.19209289550781e-07
-"1022","San Gregorio","Magallanes","Región de Magallanes y Antártica Chilena",4.91539649374317e-05,0.000214278697967529,7.29163502910524e-06,2.02655792236328e-06,3.97364310344983e-08
-"1023","San Gregorio","Magallanes","Región de Magallanes y Antártica Chilena",5.16573600179981e-05,0.000266909599304199,7.43071223041625e-06,3.07957338918641e-06,0
-"1024","San Gregorio","Magallanes","Región de Magallanes y Antártica Chilena",4.1107337892754e-05,0.000313699245452881,9.55661107582273e-06,7.33137130737305e-06,0
-"1025","San Gregorio","Magallanes","Región de Magallanes y Antártica Chilena",7.41481781005859e-05,0.000225087002036162,6.4512096287217e-05,1.49806337503833e-05,3.49680590261414e-06
-"1026","San Gregorio","Magallanes","Región de Magallanes y Antártica Chilena",7.106860721251e-05,0.000209450721740723,4.64717559225392e-05,1.87555942829931e-05,3.69548797607422e-06
-"1027","San Gregorio","Magallanes","Región de Magallanes y Antártica Chilena",6.33994714007713e-05,0.00020068883895874,3.2742816983955e-05,1.5556812286377e-05,1.01327896118164e-06
-"1028","San Gregorio","Magallanes","Región de Magallanes y Antártica Chilena",6.22471197857521e-05,0.000202576324227266,2.38617267314112e-05,5.00679016113281e-06,7.94728620689966e-08
-"1029","San Gregorio","Magallanes","Región de Magallanes y Antártica Chilena",6.73135145916604e-05,0.000216583415749483,1.89940128620947e-05,8.34465026855469e-07,3.97364310344983e-08
-"1030","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",0.00021439790725708,0.00051482516573742,0.000688076019287109,0.000404934078687802,0.000136037662741728
-"1031","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",0.000234941646340303,0.000449260085588321,0.000637431920040399,0.000374158233171329,0.000136792659759521
-"1032","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",0.000247061252593994,0.000437060982221738,0.000679155171383172,0.000378131866455078,0.000148495033499785
-"1033","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",0.000276287406450137,0.000448385864729062,0.000790635764133185,0.00046108165406622,0.000210742160561495
-"1034","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",0.000285665184492245,0.000459651142591611,0.000934302806854248,0.000498652458190918,0.000179688140633516
-"1035","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",0.000285625457763672,0.000501195609103888,0.00109243392944336,0.000537057698238641,0.000178217887878418
-"1036","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",0.00026647248887457,0.000563720881473273,0.00121023261453956,0.00056215125368908,0.000186284378287382
-"1037","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",0.000246266514295712,0.000565866648685187,0.00118601322174072,0.000518878281582147,0.000164926052093506
-"1038","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",0.000172038868186064,0.000427941471571103,0.00103553140070289,0.00044548511505127,0.000126242637634277
-"1039","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",9.90827902569436e-05,0.000306526810163632,0.000821510970126837,0.000316977500915527,7.84794465289451e-05
-"1040","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",4.93327788717579e-05,0.000213523700949736,0.000570495903957635,0.00015181303024292,3.45309563272167e-05
-"1041","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",4.52995300292969e-05,0.000159978866577148,0.000441412121290341,0.000110785163997207,2.72393226623535e-05
-"1042","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",0.000201265022042207,0.000361939280992374,0.000686566054355353,0.000407795101637021,0.000202556446311064
-"1043","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",0.000144581004860811,0.000421305507188663,0.000894586264621466,0.000360647827619687,6.76115378155373e-05
-"1044","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",0.000113149486423936,0.000303228705888614,0.000756959139835089,0.000257035106187686,4.29352112405468e-05
-"1045","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",6.61214216961525e-05,0.000130812331917696,0.000301758438581601,7.32342377887107e-05,3.7352244817157e-06
-"1046","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",7.12474211468361e-05,8.58505591168068e-05,0.000198682144400664,4.91340942971874e-05,4.37100737826768e-07
-"1047","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",0.000147322818520479,5.26706389791798e-05,7.99695626483299e-05,4.41273041360546e-05,5.96046447753906e-08
-"1048","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",0.0001581708638696,5.37435225851368e-05,6.16510733379982e-05,3.75509262084961e-05,5.96046447753906e-08
-"1049","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",0.000195582702872343,5.31276054971386e-05,4.81406859762501e-05,3.4848850191338e-05,0
-"1050","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",0.000185072422027588,5.25116920471191e-05,4.79817390441895e-05,4.33127097494435e-05,0
-"1051","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",0.000199476882698946,5.16772270202637e-05,5.10613135702442e-05,4.48028258688282e-05,0
-"1052","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",0.000143925353768282,0.000317851692670956,0.000924189866054803,0.000326097011566162,7.46448858990334e-05
-"1053","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",0.000103851161838975,0.000290274620056152,0.000729203224182129,0.000275194644927979,4.76241111755371e-05
-"1054","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",5.00082969665527e-05,0.000211973980185576,0.000444471836090088,0.000101069606898818,8.6824102254468e-06
-"1055","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",5.25911636941601e-05,0.000164985656738281,0.00033104419708252,5.50945587747265e-05,2.12589907278016e-06
-"1056","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",7.29362145648338e-05,0.00010844071948668,0.000223477676627226,3.67363281839062e-05,1.03314721400238e-06
-"1057","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",0.000167548656463623,7.29958192096092e-05,7.27574006305076e-05,3.95774841308594e-05,1.3907749973896e-07
-"1058","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",0.000203092888114043,6.343921268126e-05,6.20087012066506e-05,5.83529472351074e-05,0
-"1059","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",0.000161508723977022,6.13530501141213e-05,5.74588775634766e-05,7.08897932781838e-05,0
-"1060","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",0.00011436144268373,0.00025331974029541,0.000669737637508661,0.000309685856336728,7.66714438213967e-05
-"1061","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",8.26319082989357e-05,0.000241994857788086,0.000569939613342285,0.000197132423636504,3.82065773010254e-05
-"1062","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",5.41408844583202e-05,0.000204483672860079,0.000369727611541748,6.74724578857422e-05,5.20547246196656e-06
-"1063","Cabo de Hornos","Antártica Chilena","Región de Magallanes y Antártica Chilena",6.63002356304787e-05,0.000212450817343779,0.000217258930206299,2.42193546000635e-05,5.16573607001192e-07
-"1064","Porvenir","Tierra del Fuego","Región de Magallanes y Antártica Chilena",3.91205139749218e-05,0.000269293785095215,0.000140110656502657,1.61131229106104e-05,1.02718668131274e-05
-"1065","Porvenir","Tierra del Fuego","Región de Magallanes y Antártica Chilena",4.46240119345021e-05,0.000235339000937529,0.000197649002075195,1.83582305908203e-05,1.09871225504321e-05
-"1066","Porvenir","Tierra del Fuego","Región de Magallanes y Antártica Chilena",4.99288253195118e-05,0.000237743064644746,0.000171045467141084,1.86761226359522e-05,1.22785568237305e-05
-"1067","Porvenir","Tierra del Fuego","Región de Magallanes y Antártica Chilena",5.41806221008301e-05,0.000239690140006132,0.000142792865517549,1.89741458598292e-05,1.21394796224195e-05
-"1068","Porvenir","Tierra del Fuego","Región de Magallanes y Antártica Chilena",4.54982109658886e-05,0.000221272304770537,0.000113030277134385,1.88946723937988e-05,7.66913126426516e-06
-"1069","Porvenir","Tierra del Fuego","Región de Magallanes y Antártica Chilena",3.83257865905762e-05,0.000202337905648164,8.65260735736229e-05,1.69475879374659e-05,3.89417027690797e-06
-"1070","Porvenir","Tierra del Fuego","Región de Magallanes y Antártica Chilena",3.15705947286915e-05,0.000184396907570772,7.43269920349121e-05,7.0730843617639e-06,3.33786010742188e-06
-"1071","Porvenir","Tierra del Fuego","Región de Magallanes y Antártica Chilena",2.42392216023291e-05,0.000164469078299589,6.46511689410545e-05,9.93410708360898e-07,2.38418579101562e-06
-"1072","Porvenir","Tierra del Fuego","Región de Magallanes y Antártica Chilena",3.28222922689747e-05,0.000227808952331543,0.000144640609505586,2.09609661396826e-05,3.09944152832031e-06
-"1073","Porvenir","Tierra del Fuego","Región de Magallanes y Antártica Chilena",4.20808792114258e-05,0.00021439790725708,0.000133097171783447,1.15235643534106e-05,1.21792154459399e-05
-"1074","Porvenir","Tierra del Fuego","Región de Magallanes y Antártica Chilena",3.95576171285938e-05,0.00019399325537961,0.000120004020573106,5.24520874023438e-06,1.42852468343335e-05
-"1075","Porvenir","Tierra del Fuego","Región de Magallanes y Antártica Chilena",5.29090575582813e-05,0.000232259437325411,0.000208834811928682,7.106860721251e-05,1.5536943465122e-05
-"1076","Porvenir","Tierra del Fuego","Región de Magallanes y Antártica Chilena",3.30607108480763e-05,0.000187873840332031,0.000149925544974394,3.01996860798681e-05,8.4837274698657e-06
-"1077","Primavera","Tierra del Fuego","Región de Magallanes y Antártica Chilena",5.35845756530762e-05,0.0002305905072717,1.73250828083837e-05,3.17891448275986e-07,0
-"1078","Primavera","Tierra del Fuego","Región de Magallanes y Antártica Chilena",3.65177802450489e-05,0.000212450817343779,6.56445845379494e-05,3.83456563213258e-06,2.18550368913384e-07
-"1079","Primavera","Tierra del Fuego","Región de Magallanes y Antártica Chilena",6.62008897052146e-05,0.000275631755357608,5.43991736776661e-05,4.49021672466188e-06,4.11272048950195e-06
-"1080","Primavera","Tierra del Fuego","Región de Magallanes y Antártica Chilena",7.43667260394432e-05,0.000272750854492188,4.01933975808788e-05,7.94728620689966e-08,9.93410708360898e-07
-"1081","Primavera","Tierra del Fuego","Región de Magallanes y Antártica Chilena",6.10152892477345e-05,0.000259796768659726,3.69548797607422e-05,0,3.97364289028701e-07
-"1082","Primavera","Tierra del Fuego","Región de Magallanes y Antártica Chilena",4.5478343963623e-05,0.000240941837546416,3.60012054443359e-05,5.96046447753906e-07,1.58945724137993e-07
-"1083","Primavera","Tierra del Fuego","Región de Magallanes y Antártica Chilena",4.53193970315624e-05,0.0002819498477038,0.000129302337882109,2.16166172322119e-05,1.75635013874853e-05
-"1084","Primavera","Tierra del Fuego","Región de Magallanes y Antártica Chilena",4.3888885556953e-05,0.000259757041931152,9.92814675555564e-05,1.19606656880933e-05,9.45727060752688e-06
-"1085","Primavera","Tierra del Fuego","Región de Magallanes y Antártica Chilena",4.72068786621094e-05,0.00023545821022708,7.23401681170799e-05,2.54313158620789e-06,2.22523999582336e-06
-"1086","Primavera","Tierra del Fuego","Región de Magallanes y Antártica Chilena",6.39955178485252e-05,0.000206013515708037,5.71012496948242e-05,1.9868214167218e-06,1.35103857701324e-06
-"1087","Primavera","Tierra del Fuego","Región de Magallanes y Antártica Chilena",6.31809234619141e-05,0.000178992748260498,4.65909652120899e-05,0,6.1591464373123e-07
-"1088","Timaukel","Tierra del Fuego","Región de Magallanes y Antártica Chilena",6.90221786499023e-05,0.000302950531477109,0.000400801509385929,0.000106294952274766,4.74850321552367e-06
-"1089","Timaukel","Tierra del Fuego","Región de Magallanes y Antártica Chilena",6.85453414916992e-05,0.000320573657518253,0.000380774348741397,6.43531457171775e-05,8.06649495643796e-06
-"1090","Timaukel","Tierra del Fuego","Región de Magallanes y Antártica Chilena",7.03334808349609e-05,0.000289320945739746,0.000300943851470947,9.93212088360451e-05,1.60137806233251e-05
-"1091","Timaukel","Tierra del Fuego","Región de Magallanes y Antártica Chilena",7.2479248046875e-05,0.000271598488325253,0.000265240669250488,0.000112454094050918,2.10603084269678e-05
-"1092","Timaukel","Tierra del Fuego","Región de Magallanes y Antártica Chilena",0.000124196216347627,0.000365237385267392,0.000564853369724005,0.000206867858651094,1.09672546386719e-05
-"1093","Timaukel","Tierra del Fuego","Región de Magallanes y Antártica Chilena",0.000129620239022188,0.000374039023881778,0.000545620918273926,0.000150342777487822,1.48415565490723e-05
-"1094","Timaukel","Tierra del Fuego","Región de Magallanes y Antártica Chilena",0.000142176941153593,0.00034288564347662,0.000469585269456729,0.000200887516257353,2.05636024475098e-05
-"1095","Timaukel","Tierra del Fuego","Región de Magallanes y Antártica Chilena",0.000154475375893526,0.000308533519273624,0.00039561590529047,0.000232299164053984,2.22126636799658e-05
-"1096","Timaukel","Tierra del Fuego","Región de Magallanes y Antártica Chilena",9.1214977146592e-05,0.000261147826677188,0.000306586414808407,8.02675858722068e-05,2.29477882385254e-05
-"1097","Timaukel","Tierra del Fuego","Región de Magallanes y Antártica Chilena",7.12275505065918e-05,0.000217139720916748,0.000247855990892276,3.97562980651855e-05,1.59541759785498e-05
-"1098","Timaukel","Tierra del Fuego","Región de Magallanes y Antártica Chilena",0.000210185840842314,0.00042492151260376,0.00074668723391369,0.000304937362670898,6.33994714007713e-05
-"1099","Timaukel","Tierra del Fuego","Región de Magallanes y Antártica Chilena",0.00011146068572998,0.00038788715028204,0.000811159610748291,0.000255584716796875,6.93202018737793e-05
-"1100","Timaukel","Tierra del Fuego","Región de Magallanes y Antártica Chilena",0.000125209495308809,0.000347991794114932,0.000702559947967529,0.000288724899291992,6.01410865783691e-05
-"1101","Timaukel","Tierra del Fuego","Región de Magallanes y Antártica Chilena",9.12944451556541e-05,0.000295201927656308,0.00055617094039917,0.000205099582672119,4.19815369241405e-05
-"1102","Timaukel","Tierra del Fuego","Región de Magallanes y Antártica Chilena",5.86907081014942e-05,0.000246028095716611,0.000441352516645566,0.000100056327937637,3.12129668600392e-05
-"1103","Timaukel","Tierra del Fuego","Región de Magallanes y Antártica Chilena",0.000285565853118896,0.000442246586317196,0.000723600387573242,0.00041508674621582,0.000153958797454834
-"1104","Timaukel","Tierra del Fuego","Región de Magallanes y Antártica Chilena",0.000271856784820557,0.000482181698316708,0.00091242790222168,0.000460902840131894,0.000140249729156494
-"1105","Timaukel","Tierra del Fuego","Región de Magallanes y Antártica Chilena",0.000267525523668155,0.000492970168124884,0.000970423221588135,0.000400424003601074,0.000160853072884493
-"1106","Timaukel","Tierra del Fuego","Región de Magallanes y Antártica Chilena",0.000238279506447725,0.000571846961975098,0.00122837221715599,0.000458240509033203,0.000171164676430635
-"1107","Timaukel","Tierra del Fuego","Región de Magallanes y Antártica Chilena",0.000140567615744658,0.000466982513898984,0.00112706422805786,0.000411073357099667,0.000146210193634033
-"1108","Timaukel","Tierra del Fuego","Región de Magallanes y Antártica Chilena",3.69747467630077e-05,0.000275909900665283,0.000705242156982422,0.000192304447409697,6.23464584350586e-05
-"1109","Timaukel","Tierra del Fuego","Región de Magallanes y Antártica Chilena",2.82923374470556e-05,0.000223338603973389,0.000553210556972772,0.000138501331093721,3.81072350137401e-05
-"1110","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000768482685089111,0.00133452808950096,7.02540055499412e-05,0.00123542547225952,0.000145653888466768
-"1111","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000852425873745233,0.00197245669551194,0.000271300465101376,0.00127625465393066,0.000276466220384464
-"1112","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000791410624515265,0.00201616692356765,0.000236153602600098,0.00120564305689186,0.000294208526611328
-"1113","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000626246153842658,0.0016657313099131,4.46240119345021e-05,0.00105539953801781,0.00023700793099124
-"1114","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000805020332336426,0.00107234716415405,3.93191985494923e-05,0.00107743346597999,0.000174442931893282
-"1115","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000864028930664062,0.00124895572662354,2.05039978027344e-05,0.00124885642435402,0.000189920261618681
-"1116","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000933229923248291,0.00163493549916893,3.3477943361504e-05,0.0012962818145752,0.000200708702323027
-"1117","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00096484023379162,0.00196327758021653,8.72015953063965e-05,0.00130140781402588,0.00025586286210455
-"1118","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000824868679046631,0.00176666176412255,8.81950036273338e-05,0.00119477510452271,0.000333070755004883
-"1119","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000741680443752557,0.00173336267471313,4.97500113851856e-05,0.00109537446405739,0.000279545783996582
-"1120","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000730534375179559,0.00189705693628639,6.42538070678711e-05,0.00103573000524193,0.000194787979125977
-"1121","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000723004341125488,0.00195739674381912,8.81950036273338e-05,0.000960985838901252,0.000147461891174316
-"1122","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000875373661983758,0.0011297861346975,3.34183387167286e-05,0.00111401081085205,0.00019333760428708
-"1123","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000904341519344598,0.00122809410095215,1.90536175068701e-05,0.00122058391571045,0.000193615749594755
-"1124","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000940064608585089,0.00156768166925758,2.7795633286587e-05,0.00122680270578712,0.000201324626686983
-"1125","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000916620076168329,0.00171965360641479,2.71201133728027e-05,0.00121323263738304,0.000236848994973116
-"1126","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000836153805721551,0.00160449743270874,1.73449516296387e-05,0.00119709968566895,0.000335117190843448
-"1127","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000798563181888312,0.00189465284347534,3.41335944540333e-05,0.000982920289970934,0.000198066234588623
-"1128","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00069737434387207,0.00184384977910668,4.79221343994141e-05,0.000918785750400275,0.000112930931209121
-"1129","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000562965869903564,0.00165778398513794,4.28954772360157e-05,0.000773191452026367,5.10613135702442e-05
-"1130","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00087130069732666,0.000926017761230469,2.79943142231787e-05,0.00104767084121704,0.000184734657523222
-"1131","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000928024470340461,0.00106966495513916,1.04705495687085e-05,0.00116874778177589,0.000205854579689912
-"1132","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000926295935641974,0.00140812003519386,1.57952308654785e-05,0.00118865573313087,0.000184357166290283
-"1133","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000902871310245246,0.001562794088386,1.52985248860205e-05,0.00117735064122826,0.000218311950447969
-"1134","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000857929408084601,0.00174689292907715,3.26434783346485e-05,0.0011182427406311,0.000292698532575741
-"1135","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000884095847140998,0.00197700667195022,4.95711974508595e-05,0.000950773537624627,0.000205516815185547
-"1136","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000741302967071533,0.00186693668365479,5.31673431396484e-05,0.000864108384121209,0.000117977462650742
-"1137","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00053095817565918,0.00158788764383644,4.81605529785156e-05,0.000697970390319824,4.64121512777638e-05
-"1138","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000793099403381348,0.000609636306762695,7.49031678424217e-05,0.000930805981624871,0.000159263610839844
-"1139","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000936269760131836,0.000955839932430536,6.55651092529297e-05,0.00102158391382545,0.000184675052878447
-"1140","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00100988149642944,0.00116278731729835,4.67896461486816e-05,0.00113477313425392,0.00020239751029294
-"1141","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000996649265289307,0.00140841805841774,4.38690185546875e-05,0.00115209817886353,0.000186502933502197
-"1142","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00096285343170166,0.00142534577753395,2.62657795246923e-05,0.00114949548151344,0.000211497143027373
-"1143","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000957588374149054,0.00175623095128685,5.4260093747871e-05,0.00105295574758202,0.000270167976850644
-"1144","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00102504098322242,0.00208175182342529,0.000139017894980498,0.000967701256740838,0.000247418880462646
-"1145","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00075022381497547,0.00177192687988281,6.68366774334572e-05,0.000768621743191034,0.000118454299808946
-"1146","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00105778372380883,0.00121277570724487,5.42203597433399e-05,0.00110628211405128,0.000218888118979521
-"1147","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00102297461126,0.00143285596277565,4.53591346740723e-05,0.00108367204666138,0.000301380961900577
-"1148","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00109056627843529,0.00167761242482811,8.61883163452148e-05,0.00107298290822655,0.000280956417554989
-"1149","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00116276741027832,0.00201501441188157,0.000177820518729277,0.00101204717066139,0.000264207512373105
-"1150","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000879963219631463,0.00169305002782494,9.81688499450684e-05,0.000802735507022589,0.000131487846374512
-"1151","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000930309295654297,0.000852406024932861,0.000166197612998076,0.000962336838711053,0.000179886817932129
-"1152","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00100338459014893,0.000878413498867303,7.81019552960061e-05,0.000978390336968005,0.000214596584555693
-"1153","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00109801685903221,0.00115207827184349,3.95973511331249e-05,0.00105293595697731,0.000239054366829805
-"1154","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00107071793172508,0.00126574432943016,3.27030829794239e-05,0.00103569030761719,0.000257492065429688
-"1155","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00115640962030739,0.00174901878926903,0.000118990741611924,0.00101937854196876,0.000214298561331816
-"1156","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000975728034973145,0.00158848369028419,8.01682472229004e-05,0.000848054885864258,0.000153938934090547
-"1157","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00083448487566784,0.000720242678653449,0.000175436332938261,0.000876208127010614,0.000171701118233614
-"1158","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.0011694630375132,0.00111041462514549,9.37581062316895e-05,0.00101578235626221,0.000293473392957821
-"1159","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00121647119522095,0.00119002663996071,7.95324667706154e-05,0.00102319323923439,0.000298460334306583
-"1160","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00117415189743042,0.00125797593500465,5.42998313903809e-05,0.000987807870842516,0.000200947120902129
-"1161","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00107848644256592,0.00132820999715477,5.47965355508495e-05,0.000955522060394287,0.000159919261932373
-"1162","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00100574886891991,0.00150517618749291,8.40226784930564e-05,0.000953336537349969,0.000165720775839873
-"1163","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000914295495022088,0.00144110119435936,6.43531457171775e-05,0.000824630260467529,0.000140666961669922
-"1164","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000731170177459717,0.000648220360744745,0.00021843115973752,0.000777622044552118,0.000130395099404268
-"1165","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000958800315856934,0.000875731289852411,0.000210821628570557,0.000868062197696418,0.000199596091988496
-"1166","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00126490986440331,0.0012630820274353,0.000121474266052246,0.00117053592111915,0.000311354786390439
-"1167","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00114383304025978,0.00130613648798317,0.000112434230686631,0.0010647177696228,0.00024724006652832
-"1168","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00101109349634498,0.00141539180185646,0.000110268592834473,0.000867803872097284,0.00018388032913208
-"1169","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00095389288617298,0.00144884979818016,0.000111003719212022,0.000833630561828613,0.000153998538735323
-"1170","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00082143145846203,0.00136746966745704,9.78509560809471e-05,0.000719328701961786,0.000111738838313613
-"1171","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000827113806735724,0.00113036239054054,0.00054556131362915,0.000918447971343994,0.000287175178527832
-"1172","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00110071897506714,0.00104280316736549,0.000348707049852237,0.00103584921453148,0.000345408916473389
-"1173","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00125690305139869,0.00098651647567749,0.000200351074454375,0.00106853246688843,0.000358939170837402
-"1174","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00111701095011085,0.00114111101720482,0.000139137104270048,0.000858982384670526,0.000221431255340576
-"1175","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00107665860559791,0.00129912293050438,0.000115235648991074,0.00081457692431286,0.00015519063163083
-"1176","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000879883766174316,0.00124108791351318,9.15328637347557e-05,0.000728686631191522,9.71555709838867e-05
-"1177","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000794549763668329,0.000755449116695672,0.000373204558854923,0.000735064328182489,0.000227411583182402
-"1178","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000923772633541375,0.000788768113125116,0.000266114861005917,0.000772178173065186,0.000225067138671875
-"1179","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00113568699453026,0.00106604897882789,0.000241458415985107,0.00100485479924828,0.000192940235137939
-"1180","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00114639603998512,0.00112245476339012,0.00018127758812625,0.0009417335386388,0.000177045658347197
-"1181","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00106781721115112,0.00111637508962303,0.000115772090794053,0.000768582045566291,0.000156044960021973
-"1182","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000900328159332275,0.00109616911504418,8.84334222064354e-05,0.000637173652648926,9.51687470660545e-05
-"1183","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00111585855484009,0.0011716881999746,0.000207126140594482,0.000783642113674432,0.00021489460777957
-"1184","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000975946604739875,0.00114043557550758,0.000145296260598116,0.000665048777591437,0.000158051654580049
-"1185","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000778237998019904,0.00106730067636818,0.00010991096496582,0.000522573769558221,0.000108102954982314
-"1186","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000288685172563419,0.000687956809997559,3.96966934204102e-05,0.000193536281585693,7.27176666259766e-06
-"1187","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000163495540618896,0.000499804795254022,2.51928959187353e-05,8.57114791870117e-05,0
-"1188","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000540276349056512,0.000702301680576056,0.000935355841647834,0.00061565637588501,0.000130236148834229
-"1189","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000983059406280518,0.00115472078323364,0.000466307013994083,0.00088147324277088,0.000230411693337373
-"1190","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000951627909671515,0.00121748447418213,0.000321904808515683,0.000811060250271112,0.000213861465454102
-"1191","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000741064548492432,0.00106610858347267,0.000197966888663359,0.000492831051815301,0.000134587287902832
-"1192","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000325163215165958,0.000758469104766846,0.000103433929325547,0.000176052257302217,1.7126401871792e-05
-"1193","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000159084796905518,0.000470439583295956,2.96235084533691e-05,0.000109652675746474,3.17891448275986e-07
-"1194","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000491142272949219,0.000685056031215936,0.00113040208816528,0.000519553839694709,0.000118494033813477
-"1195","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000508566678036004,0.000734984874725342,0.000993072986602783,0.000568787276279181,0.000136375427246094
-"1196","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000548819720279425,0.000788748264312744,0.000840644061099738,0.000542700290679932,0.000152905777213164
-"1197","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000736375630367547,0.00104266405105591,0.000696897506713867,0.00063953798962757,0.000275989383226261
-"1198","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000929137051571161,0.00124887621495873,0.000656882941257209,0.000934501469600946,0.00035659471177496
-"1199","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000918368517886847,0.00119884812738746,0.000512003898620605,0.000843445479404181,0.000339309364790097
-"1200","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000709017098415643,0.00104842579457909,0.000388840824598446,0.000527143478393555,0.00026039281510748
-"1201","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00053328275680542,0.000976979732513428,0.00029367208480835,0.000376363605028018,0.000132461384055205
-"1202","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000393013149732724,0.000848154246341437,0.000214576721191406,0.000285029411315918,5.99424056417774e-05
-"1203","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000286797672742978,0.00070488452911377,0.000138680145028047,0.000172297164681368,3.65376472473145e-05
-"1204","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000238974884268828,0.000595072924625129,0.000110288463474717,0.000152389213326387,3.15109900839161e-05
-"1205","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000165979072335176,0.000516076863277704,6.74128532409668e-05,9.47912558331154e-05,1.37686729431152e-05
-"1206","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000625530898105353,0.000923852145206183,0.000860234082210809,0.000526865303982049,0.000252604484558105
-"1207","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000726381957065314,0.00115464127156883,0.000911394774448127,0.00071185827255249,0.0003773768839892
-"1208","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000790675461757928,0.00118929147720337,0.000798483670223504,0.000734607398044318,0.000400165707105771
-"1209","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000748991966247559,0.00114933645818383,0.000664730847347528,0.000656803429592401,0.000340819358825684
-"1210","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000598609447479248,0.00109046697616577,0.000542084395419806,0.000539600849151611,0.000194589301827364
-"1211","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00044935941696167,0.000966966152191162,0.000404596328735352,0.000398536532884464,0.000107069812656846
-"1212","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000252823025221005,0.000731050968170166,0.000258227199083194,0.000190297767403536,5.34852333657909e-05
-"1213","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000212013721466064,0.000603536784183234,0.000146110847708769,0.000111977256892715,3.06566544168163e-05
-"1214","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000139613941428252,0.000511268794070929,0.000102341175079346,6.62803649902344e-05,1.43051147460938e-05
-"1215","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000407139450544491,0.000679731369018555,0.00110014283563942,0.000299235194688663,9.04202461242676e-05
-"1216","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00063091516494751,0.00114901864435524,0.00119151675608009,0.000652849674224854,0.000316162913804874
-"1217","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000737349211703986,0.00123693549539894,0.00112835562322289,0.000758032023441046,0.000376005977159366
-"1218","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000751972198486328,0.00126532709691674,0.00103149807546288,0.000752230465877801,0.000387569278245792
-"1219","Natales","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000616451085079461,0.00119839108083397,0.000899692357052118,0.000650763511657715,0.000284473091596738
-"1220","Torres del Paine","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000296056270599365,0.000740011513698846,2.74578724202001e-05,0.000243008136749268,1.01725263448316e-05
-"1221","Torres del Paine","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000147422149893828,0.000451942294603214,1.36295957418042e-05,9.19302328838967e-05,9.93410722571753e-08
-"1222","Torres del Paine","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000663141428958625,0.00111714995000511,6.76910058245994e-05,0.000595112622249871,4.68691177957226e-05
-"1223","Torres del Paine","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000392933696275577,0.000858008861541748,4.25775833718944e-05,0.000367045402526855,1.34905176309985e-05
-"1224","Torres del Paine","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000224828720092773,0.000615815341006964,2.5629997253418e-05,0.000210444137337618,1.52985251133941e-06
-"1225","Torres del Paine","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000106573104858398,0.000379761069780216,1.27951307149488e-05,8.85327681316994e-05,0
-"1226","Torres del Paine","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000696718692779541,0.00102818012237549,6.13530501141213e-05,0.000487307697767392,4.37299422628712e-05
-"1227","Torres del Paine","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000404477119445801,0.000842750072479248,3.71932983398438e-05,0.000328143447404727,1.31527585836011e-05
-"1228","Torres del Paine","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.00023821990180295,0.000631531060207635,2.45571136474609e-05,0.000184555843588896,1.47024786656402e-06
-"1229","Torres del Paine","Ultima Esperanza","Región de Magallanes y Antártica Chilena",0.000130097076180391,0.00044935941696167,2.11795177165186e-05,7.60555267333984e-05,0
-"1230","Santiago","Santiago","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1231","Cerrillos","Santiago","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1232","Cerro Navia","Santiago","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1233","Conchalí","Santiago","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1234","El Bosque","Santiago","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1235","Estación Central","Santiago","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1236","Huechuraba","Santiago","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1237","Independencia","Santiago","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1238","La Cisterna","Santiago","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1239","La Florida","Santiago","Región Metropolitana de Santiago",4.7147274017334e-05,4.41074371337891e-06,0.000185688331839629,4.53193970315624e-05,2.16563535104797e-06
-"1240","La Granja","Santiago","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1241","La Pintana","Santiago","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1242","La Reina","Santiago","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1243","Las Condes","Santiago","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1244","Lo Barnechea","Santiago","Región Metropolitana de Santiago",9.52680929913186e-05,1.18613243103027e-05,0.000348349421983585,8.9844070316758e-05,5.0663948059082e-06
-"1245","Lo Barnechea","Santiago","Región Metropolitana de Santiago",6.48299828753807e-05,6.83466578266234e-06,0.000304540008073673,0.000124355152365752,1.21394796224195e-05
-"1246","Lo Espejo","Santiago","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1247","Lo Prado","Santiago","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1248","Macul","Santiago","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1249","Maipú","Santiago","Región Metropolitana de Santiago",2.57492065429688e-05,3.71535611520812e-06,8.73605386004783e-05,1.46826105265063e-05,0
-"1250","Ñuñoa","Santiago","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1251","Pedro Aguirre Cerda","Santiago","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1252","Peñalolén","Santiago","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1253","Providencia","Santiago","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1254","Pudahuel","Santiago","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1255","Quilicura","Santiago","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1256","Quinta Normal","Santiago","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1257","Recoleta","Santiago","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1258","Renca","Santiago","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1259","San Joaquín","Santiago","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1260","San Miguel","Santiago","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1261","San Ramón","Santiago","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1262","Vitacura","Santiago","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1263","Puente Alto","Cordillera","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1264","Pirque","Cordillera","Región Metropolitana de Santiago",0.000120937824249268,4.36504669778515e-05,6.91215172992088e-05,3.35375480062794e-05,0
-"1265","San José de Maipo","Cordillera","Región Metropolitana de Santiago",4.88956757180858e-05,4.11272048950195e-06,0.000269611686235294,0.000169436141732149,2.16563535104797e-06
-"1266","San José de Maipo","Cordillera","Región Metropolitana de Santiago",1.38680143209058e-05,6.75519288506621e-07,0.000213940933463164,0.000206708908081055,1.47024786656402e-06
-"1267","San José de Maipo","Cordillera","Región Metropolitana de Santiago",0.000112175941467285,3.89615706808399e-05,0.000153283282998018,0.000147521495819092,0
-"1268","San José de Maipo","Cordillera","Región Metropolitana de Santiago",1.26361846923828e-05,8.54333222832793e-07,0.00020676851272583,0.000167489051818848,0
-"1269","San José de Maipo","Cordillera","Región Metropolitana de Santiago",0.000119427837489638,3.81668396585155e-05,0.000212709113839082,4.88162040710449e-05,7.94728620689966e-08
-"1270","San José de Maipo","Cordillera","Región Metropolitana de Santiago",2.17358265217626e-05,7.54992186102754e-07,0.000264465808868408,6.73135145916604e-05,0
-"1271","San José de Maipo","Cordillera","Región Metropolitana de Santiago",3.08553389913868e-05,4.76837158203125e-07,0.000192681953194551,4.54187393188477e-05,3.97364310344983e-08
-"1272","Colina","Chacabuco","Región Metropolitana de Santiago",2.6424726456753e-05,4.68889857074828e-06,0.000154038265463896,3.57627868652344e-05,0
-"1273","Colina","Chacabuco","Región Metropolitana de Santiago",7.59760514483787e-05,1.41461687235278e-05,0.000248650700086728,4.66108322143555e-05,0
-"1274","Lampa","Chacabuco","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1275","Tiltil","Chacabuco","Región Metropolitana de Santiago",1.14838285298902e-05,6.55651092529297e-07,2.12788581848145e-05,2.87095699604833e-05,0
-"1276","San Bernardo","Maipo","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1277","Buin","Maipo","Región Metropolitana de Santiago",6.61611557006836e-06,0,4.83989715576172e-05,1.96695327758789e-05,0
-"1278","Calera de Tango","Maipo","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1279","Paine","Maipo","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1280","Melipilla","Melipilla","Región Metropolitana de Santiago",6.91413879394531e-06,0,2.58286803500596e-07,6.2783560679236e-06,0
-"1281","Alhué","Melipilla","Región Metropolitana de Santiago",3.86834144592285e-05,3.97364310344983e-08,1.12255411295337e-05,1.97490062419092e-05,0
-"1282","Curacaví","Melipilla","Región Metropolitana de Santiago",2.02258434001124e-05,6.35782896551973e-07,2.11199130717432e-05,4.28954772360157e-05,0
-"1283","Curacaví","Melipilla","Región Metropolitana de Santiago",1.77423153218115e-05,0,4.64916229248047e-06,3.40938568115234e-05,0
-"1284","María Pinto","Melipilla","Región Metropolitana de Santiago",6.95387507221312e-06,0,0,1.49011611938477e-05,0
-"1285","San Pedro","Melipilla","Región Metropolitana de Santiago",6.99361180522828e-06,0,2.7815499947792e-07,6.31809234619141e-06,0
-"1286","Talagante","Talagante","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1287","El Monte","Talagante","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1288","Isla de Maipo","Talagante","Región Metropolitana de Santiago",1.7980733900913e-05,0,4.84784459331422e-06,2.11397800740087e-05,0
-"1289","Padre Hurtado","Talagante","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1290","Peñaflor","Talagante","Región Metropolitana de Santiago",NA,NA,NA,NA,NA
-"1291","Valdivia","Valdivia","Región de Los Ríos",NA,NA,NA,NA,NA
-"1292","Corral","Valdivia","Región de Los Ríos",7.13268900653929e-06,1.3907749973896e-07,3.97364310344983e-08,0.000446081161499023,3.20672988891602e-05
-"1293","Corral","Valdivia","Región de Los Ríos",6.3776969909668e-06,5.96046447753906e-08,0,0.000297307968139648,5.90880699746776e-05
-"1294","Lanco","Valdivia","Región de Los Ríos",7.35123933282011e-07,0,1.2516975402832e-06,8.43405723571777e-05,0.000151554748299532
-"1295","Lanco","Valdivia","Región de Los Ríos",8.54333222832793e-07,7.94728620689966e-08,5.53925819986034e-05,0.00015209119010251,0.000229179859161377
-"1296","Los Lagos","Valdivia","Región de Los Ríos",7.35123933282011e-07,0,1.78813934326172e-07,9.64999198913574e-05,0.00014883279800415
-"1297","Los Lagos","Valdivia","Región de Los Ríos",6.83466578266234e-06,7.94728620689966e-08,1.94708513845399e-06,0.000174880027770996,0.000257551670074463
-"1298","Los Lagos","Valdivia","Región de Los Ríos",6.1591464373123e-07,0,0,0.000125467777252197,0.00014976660895627
-"1299","Máfil","Valdivia","Región de Los Ríos",1.41064322178863e-06,0,1.98682155172492e-08,0.000153263405081816,0.000104725360870361
-"1300","Mariquina","Valdivia","Región de Los Ríos",2.38418579101562e-07,0,5.96046447753906e-08,0.000164449214935303,0.000124355152365752
-"1301","Paillaco","Valdivia","Región de Los Ríos",2.86102294921875e-06,0,0,0.000142713382956572,9.21090468182229e-05
-"1302","Panguipulli","Valdivia","Región de Los Ríos",1.74442920979345e-05,0,7.69098624004982e-05,0.000216384723898955,0.000413854926591739
-"1303","Panguipulli","Valdivia","Región de Los Ríos",1.66098270710791e-05,5.96046447753906e-08,1.93119049072266e-05,0.000209709003684111,0.000380436569685116
-"1304","Panguipulli","Valdivia","Región de Los Ríos",2.92857494059717e-05,0,2.71797180175781e-05,0.000190615653991699,0.000459035247331485
-"1305","Panguipulli","Valdivia","Región de Los Ríos",4.06503677368164e-05,0,6.57637929180055e-06,9.06586647033691e-05,0.000391582638258114
-"1306","Panguipulli","Valdivia","Región de Los Ríos",4.77433204650879e-05,0,1.81198120117188e-05,7.8399978519883e-05,0.000380933284759521
-"1307","La Unión","Ranco","Región de Los Ríos",1.17818517537671e-05,1.78813934326172e-06,0,0.000300029903883114,2.76565551757812e-05
-"1308","La Unión","Ranco","Región de Los Ríos",7.88768102211179e-06,1.11261999791168e-06,2.7815499947792e-07,0.000199993446585722,4.78029251098633e-05
-"1309","La Unión","Ranco","Región de Los Ríos",1.33117043787934e-06,0,6.35782896551973e-07,0.000137408569571562,8.28703268780373e-05
-"1310","La Unión","Ranco","Región de Los Ríos",1.33117043787934e-06,0,1.58945724137993e-07,0.000110864639282227,0.000150402382132597
-"1311","Futrono","Ranco","Región de Los Ríos",1.4185905456543e-05,0,3.21467705362011e-05,0.000169138118508272,0.000282049179077148
-"1312","Futrono","Ranco","Región de Los Ríos",3.63389663107228e-05,0,6.07967376708984e-05,0.000179827213287354,0.00040336450911127
-"1313","Futrono","Ranco","Región de Los Ríos",7.47640951885842e-05,0,5.98231963522267e-05,0.00012644131493289,0.000445385783677921
-"1314","Futrono","Ranco","Región de Los Ríos",6.56247138977051e-05,0,2.14974079426611e-05,0.00013329584908206,0.000489254773128778
-"1315","Lago Ranco","Ranco","Región de Los Ríos",9.00030136108398e-06,0,1.9073486328125e-05,0.000130911663291045,0.000299374252790585
-"1316","Lago Ranco","Ranco","Región de Los Ríos",2.66432762145996e-05,0,2.03251838684082e-05,0.00014495849609375,0.000427007675170898
-"1317","Lago Ranco","Ranco","Región de Los Ríos",2.33054161071777e-05,0,8.62280558067141e-06,0.0002480149269104,0.000474731117719784
-"1318","Lago Ranco","Ranco","Región de Los Ríos",4.22795601480175e-05,0,1.92721677194641e-06,0.000178694725036621,0.000530282675754279
-"1319","Río Bueno","Ranco","Región de Los Ríos",3.89417027690797e-06,0,7.94728620689966e-08,0.000150501728057861,0.000175217792275362
-"1320","Río Bueno","Ranco","Región de Los Ríos",5.78165054321289e-06,0,7.37110758564086e-06,0.000234146908042021,0.000347514956956729
-"1321","Arica","Arica","Región de Arica y Parinacota",0,7.08897932781838e-05,4.23192977905273e-05,0,0
-"1322","Arica","Arica","Región de Arica y Parinacota",3.00010051432764e-05,3.36170196533203e-05,6.35186806903221e-05,4.48624305136036e-05,4.71075363748241e-05
-"1323","Arica","Arica","Región de Arica y Parinacota",7.94728578057402e-07,6.91413879394531e-06,1.80800759608246e-06,8.14596830878145e-07,4.76837158203125e-07
-"1324","Arica","Arica","Región de Arica y Parinacota",0,3.14712524414062e-05,1.9868214167218e-06,0,0
-"1325","Arica","Arica","Región de Arica y Parinacota",1.21196114832856e-06,9.27845667320071e-06,1.49011611938477e-06,1.58945724137993e-07,1.68879830653168e-06
-"1326","Arica","Arica","Región de Arica y Parinacota",0,9.93410722571753e-08,1.58945724137993e-07,3.97364310344983e-08,5.96046447753906e-08
-"1327","Arica","Arica","Región de Arica y Parinacota",0,1.29342079162598e-05,0,0,0
-"1328","Camarones","Arica","Región de Arica y Parinacota",0,1.21990842671948e-05,2.89678573608398e-05,0,0
-"1329","Camarones","Arica","Región de Arica y Parinacota",1.50998437220551e-06,7.15255737304688e-07,1.35103857701324e-06,6.95387541327364e-07,4.96705354180449e-07
-"1330","Camarones","Arica","Región de Arica y Parinacota",0,2.38418579101562e-07,7.94728620689966e-08,0,1.3907749973896e-07
-"1331","Camarones","Arica","Región de Arica y Parinacota",0,5.96046447753906e-08,0,0,0
-"1332","Camarones","Arica","Región de Arica y Parinacota",0,1.95304546650732e-05,8.94069671630859e-07,0,0
-"1333","Camarones","Arica","Región de Arica y Parinacota",0,1.1006991371687e-05,2.52127647399902e-05,0,0
-"1334","Putre","Parinacota","Región de Arica y Parinacota",0,0.000130037471535616,0.000274916499620304,0,0
-"1335","Putre","Parinacota","Región de Arica y Parinacota",1.42852468343335e-05,0.000152150794747286,0.000335594028001651,0,0
-"1336","Putre","Parinacota","Región de Arica y Parinacota",0,9.2585883976426e-05,0.000167330101248808,0,0
-"1337","Putre","Parinacota","Región de Arica y Parinacota",1.09275179056567e-05,0.00011374553287169,0.000294466823106632,0,0
-"1338","Putre","Parinacota","Región de Arica y Parinacota",0,3.61800193786621e-05,7.08103179931641e-05,0,0
-"1339","Putre","Parinacota","Región de Arica y Parinacota",2.40405393014953e-06,2.06629429158056e-05,0.000204920768737793,0,0
-"1340","Putre","Parinacota","Región de Arica y Parinacota",0,5.54323196411133e-06,6.39955178485252e-05,0,0
-"1341","Putre","Parinacota","Región de Arica y Parinacota",0,3.82264443032909e-05,6.42538070678711e-05,0,0
-"1342","General Lagos","Parinacota","Región de Arica y Parinacota",0,0.000134805843117647,0.000239153698203154,0,0
-"1343","General Lagos","Parinacota","Región de Arica y Parinacota",2.30471300710633e-06,0.000154892608406954,0.000344733387464657,0,0
-"1344","General Lagos","Parinacota","Región de Arica y Parinacota",0,8.90294686541893e-05,0.000122090175864287,0,0
-"1345","Chillán","Diguillín","Región de Ñuble",NA,NA,NA,NA,NA
-"1346","Bulnes","Diguillín","Región de Ñuble",5.74191426494508e-06,0,5.96046447753906e-08,5.86112355449586e-06,0
-"1347","Chillán Viejo","Diguillín","Región de Ñuble",NA,NA,NA,NA,NA
-"1348","El Carmen","Diguillín","Región de Ñuble",7.80622140155174e-05,2.92062759399414e-06,8.30093995318748e-05,7.94331208453514e-05,1.84774398803711e-06
-"1349","Pemuco","Diguillín","Región de Ñuble",9.02016927284421e-06,0,2.58286803500596e-07,5.92072819927125e-06,3.17891448275986e-07
-"1350","Pemuco","Diguillín","Región de Ñuble",2.35040988627588e-05,0,1.01327896118164e-06,1.54177341755712e-05,3.97364310344983e-08
-"1351","Pinto","Diguillín","Región de Ñuble",0.000121474266052246,5.22534037372679e-06,6.94394111633301e-05,7.68303871154785e-05,2.44379043579102e-06
-"1352","Pinto","Diguillín","Región de Ñuble",0.000124355152365752,5.68230962016969e-06,2.61068344116211e-05,3.96966934204102e-05,3.1391780339618e-06
-"1353","Quillón","Diguillín","Región de Ñuble",1.02519989013672e-05,0,0,1.07288360595703e-06,3.97364310344983e-08
-"1354","San Ignacio","Diguillín","Región de Ñuble",6.73532485961914e-06,0,2.7815499947792e-07,1.34905176309985e-05,0
-"1355","Yungay","Diguillín","Región de Ñuble",NA,NA,NA,NA,NA
-"1356","Quirihue","Itata","Región de Ñuble",2.7815499947792e-07,0,1.19209289550781e-07,0,5.96046447753906e-08
-"1357","Cobquecura","Itata","Región de Ñuble",0,0,5.96046447753906e-08,8.74201475653535e-07,1.19209289550781e-07
-"1358","Coelemu","Itata","Región de Ñuble",3.17891431222961e-06,0,0,3.97364310344983e-08,9.93410722571753e-08
-"1359","Ninhue","Itata","Región de Ñuble",NA,NA,NA,NA,NA
-"1360","Portezuelo","Itata","Región de Ñuble",1.98682155172492e-08,0,1.98682155172492e-08,9.5367431640625e-07,3.97364310344983e-08
-"1361","Ranquil","Itata","Región de Ñuble",NA,NA,NA,NA,NA
-"1362","Treguaco","Itata","Región de Ñuble",NA,NA,NA,NA,NA
-"1363","San Carlos","Punilla","Región de Ñuble",3.77496093051377e-07,0,3.17891448275986e-07,2.86102294921875e-06,0
-"1364","San Carlos","Punilla","Región de Ñuble",3.3775964425331e-07,0,4.56968933804092e-07,1.13248825073242e-05,0
-"1365","Coihueco","Punilla","Región de Ñuble",1.14043550638598e-05,0,3.5405158996582e-05,7.36912115826271e-05,0
-"1366","Coihueco","Punilla","Región de Ñuble",2.11199130717432e-05,7.94728620689966e-08,5.67436218261719e-05,9.77317467913963e-05,0
-"1367","Coihueco","Punilla","Región de Ñuble",6.70154913677834e-05,2.00668978322938e-06,5.3922336519463e-05,9.23673287616111e-05,4.17232513427734e-07
-"1368","Ñiquén","Punilla","Región de Ñuble",3.97364310344983e-08,0,2.7815499947792e-07,8.14596842246829e-06,0
-"1369","San Fabián","Punilla","Región de Ñuble",5.0961971282959e-05,6.75519288506621e-07,8.24928283691406e-05,8.54929312481545e-05,0
-"1370","San Fabián","Punilla","Región de Ñuble",0.000148077800986357,1.35103857701324e-06,7.55190849304199e-05,5.5332977353828e-05,1.58945724137993e-07
-"1371","San Fabián","Punilla","Región de Ñuble",0.000163336590048857,2.5629997253418e-06,3.20871658914257e-05,5.55117912881542e-05,4.96705354180449e-07
-"1372","San Nicolás","Punilla","Región de Ñuble",5.96046447753906e-08,0,1.3907749973896e-07,3.77496075998351e-06,0
+"","county_origin","precipitation","Date"
+"1","Antártica Chilena",0.000152275258883224,17
+"2","Antofagasta",8.35693981095103e-08,17
+"3","Arauco",4.01779454940589e-07,17
+"4","Arica",2.57828301860522e-06,17
+"5","Aysén",0.000286368385700154,17
+"6","Bío-Bío",4.84879809300764e-05,17
+"7","Cachapoal",4.609591364139e-05,17
+"8","Capitán Prat",0.000303304255436215,17
+"9","Cardenal Caro",7.94728594044614e-08,17
+"10","Cauquenes",5.44389083501073e-07,17
+"11","Cautín",1.60800086395814e-05,17
+"12","Provincia de Chacabuco",3.79615354783406e-05,17
+"13","Chañaral",7.17463308516939e-09,17
+"14","Chiloe",0.0002815810357788,17
+"15","Choapa",1.40713711118678e-05,17
+"16","Colchagua",2.69810362364556e-05,17
+"17","Provincia de Concepción",7.09692612872459e-06,17
+"18","Copiapó",1.12721708357433e-07,17
+"19","Provincia de Cordillera",6.00665804313394e-05,17
+"20","Coyhaique",6.4785480935825e-05,17
+"21","Curicó",6.08906589834843e-05,17
+"22","Diguillín",4.73931423243812e-05,17
+"23","El Loa",0,17
+"24","Provincia de Elqui",2.61144762891792e-05,17
+"25","General Carrera",8.77242163389145e-05,17
+"26","Huasco",3.86666027196725e-07,17
+"27","Iquique",2.47293048438735e-05,17
+"28","Isla de Pascua",NA,17
+"29","Itata",8.69234381806194e-07,17
+"30","Limarí",1.04517267982785e-05,17
+"31","Linares",8.5110464901561e-05,17
+"32","Llanquihue",2.87019291031006e-05,17
+"33","Los Andes",5.0206979358336e-05,17
+"34","Magallanes",0.000212710278334699,17
+"35","Provincia de Maipo",6.61611557006836e-06,17
+"36","Malleco",2.97859093596186e-05,17
+"37","Marga Marga",4.31140279033571e-06,17
+"38","Melipilla",1.62521998087565e-05,17
+"39","Osorno",1.78528329399796e-05,17
+"40","Palena",0.000332548070498608,17
+"41","Parinacota",2.72013924338601e-06,17
+"42","Petorca",2.45206886499242e-05,17
+"43","Punilla",4.62730718634674e-05,17
+"44","Quillota",6.67572021484375e-06,17
+"45","Ranco",2.31535663682994e-05,17
+"46","San Antonio",4.86771256191787e-07,17
+"47","San Felipe",2.81184916275379e-05,17
+"48","Provincia de Santiago",5.82486391067505e-05,17
+"49","Talagante",1.7980733900913e-05,17
+"50","Talca",4.85144551702898e-05,17
+"51","Tamarugal",1.04308130639881e-06,17
+"52","Tierra del Fuego",8.66927966062972e-05,17
+"53","Tocopilla",1.9136703583394e-06,17
+"54","Ultima Esperanza",0.000772129827479754,17
+"55","Valdivia",1.19686126026863e-05,17
+"56","Provincia de Valparaíso",4.02000220371216e-06,17
+"57","Antártica Chilena",0.00025936376882515,18
+"58","Antofagasta",1.69801551202309e-07,18
+"59","Arauco",0,18
+"60","Arica",1.60733860841315e-05,18
+"61","Aysén",7.65813242543074e-05,18
+"62","Bío-Bío",1.00135804643742e-07,18
+"63","Cachapoal",4.57631226632079e-06,18
+"64","Capitán Prat",0.000740967611887534,18
+"65","Cardenal Caro",0,18
+"66","Cauquenes",0,18
+"67","Cautín",5.96046459596285e-09,18
+"68","Provincia de Chacabuco",6.49690612893513e-06,18
+"69","Chañaral",0,18
+"70","Chiloe",4.22944624656196e-06,18
+"71","Choapa",1.72502852619265e-06,18
+"72","Colchagua",6.32944550358973e-07,18
+"73","Provincia de Concepción",0,18
+"74","Copiapó",4.37911666475262e-08,18
+"75","Provincia de Cordillera",1.59566599577943e-05,18
+"76","Coyhaique",1.52317681789782e-05,18
+"77","Curicó",1.03856576639704e-06,18
+"78","Diguillín",1.72853469848633e-06,18
+"79","El Loa",2.25622095951614e-07,18
+"80","Provincia de Elqui",8.98654662001136e-07,18
+"81","General Carrera",4.9160010942481e-05,18
+"82","Huasco",1.06982697572606e-08,18
+"83","Iquique",2.27358614210971e-05,18
+"84","Isla de Pascua",NA,18
+"85","Itata",0,18
+"86","Limarí",1.60409693630994e-06,18
+"87","Linares",5.45134144935844e-07,18
+"88","Llanquihue",2.76626684909003e-07,18
+"89","Los Andes",3.49521640600869e-05,18
+"90","Magallanes",0.000557642593904508,18
+"91","Provincia de Maipo",0,18
+"92","Malleco",1.29575317818426e-08,18
+"93","Marga Marga",0,18
+"94","Melipilla",1.12586554597745e-07,18
+"95","Osorno",1.52736904679429e-07,18
+"96","Palena",4.30452521162404e-06,18
+"97","Parinacota",8.79872947156069e-05,18
+"98","Petorca",8.07974060990091e-07,18
+"99","Punilla",6.67572023616003e-07,18
+"100","Quillota",0,18
+"101","Ranco",2.071970957981e-07,18
+"102","San Antonio",0,18
+"103","San Felipe",6.26345490672975e-06,18
+"104","Provincia de Santiago",6.70552248038803e-06,18
+"105","Talagante",0,18
+"106","Talca",9.72300776780344e-07,18
+"107","Tamarugal",3.78967799758496e-06,18
+"108","Tierra del Fuego",0.000286437894354331,18
+"109","Tocopilla",3.64672053943981e-06,18
+"110","Ultima Esperanza",0.00118914743094744,18
+"111","Valdivia",2.78155008951823e-08,18
+"112","Provincia de Valparaíso",0,18
+"113","Antártica Chilena",0.000526054818585501,19
+"114","Antofagasta",4.76222674637147e-07,19
+"115","Arauco",7.92521018095411e-07,19
+"116","Arica",1.2906697888363e-05,19
+"117","Aysén",2.26071903100401e-06,19
+"118","Bío-Bío",3.42098868372176e-05,19
+"119","Cachapoal",9.01536809054804e-05,19
+"120","Capitán Prat",3.02412293657973e-05,19
+"121","Cardenal Caro",2.21861734909605e-07,19
+"122","Cauquenes",4.37100732142426e-07,19
+"123","Cautín",7.35302763075651e-05,19
+"124","Provincia de Chacabuco",0.000141322607911813,19
+"125","Chañaral",2.98023222396656e-08,19
+"126","Chiloe",0,19
+"127","Choapa",6.53804514682326e-05,19
+"128","Colchagua",3.43180848411911e-05,19
+"129","Provincia de Concepción",7.94728620689966e-09,19
+"130","Copiapó",1.65595486050989e-06,19
+"131","Provincia de Cordillera",0.000197822851077945,19
+"132","Coyhaique",4.29948167735006e-07,19
+"133","Curicó",3.06873609423002e-05,19
+"134","Diguillín",2.25206213144702e-05,19
+"135","El Loa",1.01024820789112e-06,19
+"136","Provincia de Elqui",4.9513884412715e-05,19
+"137","General Carrera",7.93000921894344e-07,19
+"138","Huasco",6.37311208319711e-07,19
+"139","Iquique",2.10007023676203e-05,19
+"140","Isla de Pascua",NA,19
+"141","Itata",4.96705374608553e-08,19
+"142","Limarí",5.92470164819085e-05,19
+"143","Linares",1.45373243364277e-05,19
+"144","Llanquihue",1.02168474501131e-06,19
+"145","Los Andes",0.000275127089116722,19
+"146","Magallanes",0.00070528002375153,19
+"147","Provincia de Maipo",4.83989715576172e-05,19
+"148","Malleco",2.76997473595239e-05,19
+"149","Marga Marga",0,19
+"150","Melipilla",6.25517638278931e-06,19
+"151","Osorno",3.21740910713686e-06,19
+"152","Palena",5.34913487863028e-09,19
+"153","Parinacota",0.000198387738650622,19
+"154","Petorca",6.60320136240955e-05,19
+"155","Punilla",3.373622894145e-05,19
+"156","Quillota",0,19
+"157","Ranco",1.66240192227869e-05,19
+"158","San Antonio",1.13248825073242e-06,19
+"159","San Felipe",0.000108584763665931,19
+"160","Provincia de Santiago",0.000231484575124341,19
+"161","Talagante",4.84784459331422e-06,19
+"162","Talca",8.73704739656755e-06,19
+"163","Tamarugal",4.97845954084687e-06,19
+"164","Tierra del Fuego",0.000342563442206048,19
+"165","Tocopilla",3.13105009523569e-06,19
+"166","Ultima Esperanza",0.000219874746267124,19
+"167","Valdivia",1.37991376354544e-05,19
+"168","Provincia de Valparaíso",1.98019874157277e-06,19
+"169","Antártica Chilena",0.000225709346630217,20
+"170","Antofagasta",2.03597994106575e-07,20
+"171","Arauco",2.15768813707958e-05,20
+"172","Arica",3.58239208007551e-06,20
+"173","Aysén",0.00104436231188066,20
+"174","Bío-Bío",4.06694410609987e-05,20
+"175","Cachapoal",1.7436014464541e-05,20
+"176","Capitán Prat",0.000813249082332759,20
+"177","Cardenal Caro",3.94052920664005e-07,20
+"178","Cauquenes",8.54333228517135e-07,20
+"179","Cautín",8.58214165721923e-05,20
+"180","Provincia de Chacabuco",3.70277296800244e-05,20
+"181","Chañaral",4.33678979049211e-06,20
+"182","Chiloe",0.000522869328051456,20
+"183","Choapa",2.25340619341724e-05,20
+"184","Colchagua",1.1881192688991e-05,20
+"185","Provincia de Concepción",3.45706943960522e-07,20
+"186","Copiapó",3.67829591941792e-05,20
+"187","Provincia de Cordillera",0.000110780200429872,20
+"188","Coyhaique",0.000278536480036564,20
+"189","Curicó",1.66549829197555e-05,20
+"190","Diguillín",2.97153985684417e-05,20
+"191","El Loa",1.02708566472857e-07,20
+"192","Provincia de Elqui",4.16812225934721e-05,20
+"193","General Carrera",0.000618697940650315,20
+"194","Huasco",4.75690917972188e-06,20
+"195","Iquique",1.87423496148161e-05,20
+"196","Isla de Pascua",NA,20
+"197","Itata",4.66903055773571e-07,20
+"198","Limarí",4.32395099748742e-05,20
+"199","Linares",2.81035897469195e-05,20
+"200","Llanquihue",0.000313874234472258,20
+"201","Los Andes",7.89562869613292e-05,20
+"202","Magallanes",0.000265511813728046,20
+"203","Provincia de Maipo",1.96695327758789e-05,20
+"204","Malleco",3.65454215419138e-05,20
+"205","Marga Marga",8.62280558067141e-06,20
+"206","Melipilla",2.07059916495685e-05,20
+"207","Osorno",0.000275204578429111,20
+"208","Palena",0.000478620714812468,20
+"209","Parinacota",0,20
+"210","Petorca",2.29577217775538e-05,20
+"211","Punilla",4.86234821664766e-05,20
+"212","Quillota",2.92062759399414e-06,20
+"213","Ranco",0.000174587678754636,20
+"214","San Antonio",6.55651074765728e-07,20
+"215","San Felipe",6.56197460102703e-05,20
+"216","Provincia de Santiago",6.85503075601446e-05,20
+"217","Talagante",2.11397800740087e-05,20
+"218","Talca",1.51668987733444e-05,20
+"219","Tamarugal",1.14683753989671e-06,20
+"220","Tierra del Fuego",0.000113613794873556,20
+"221","Tocopilla",2.48623618145674e-06,20
+"222","Ultima Esperanza",0.000782791277197248,20
+"223","Valdivia",0.000174857509652308,20
+"224","Provincia de Valparaíso",7.04659354748098e-06,20
+"225","Antártica Chilena",6.41153137283034e-05,21
+"226","Antofagasta",5.34598364751706e-08,21
+"227","Arauco",3.58753731638394e-05,21
+"228","Arica",3.84373533371182e-06,21
+"229","Aysén",0.000143741568102823,21
+"230","Bío-Bío",4.20292223938645e-05,21
+"231","Cachapoal",5.06639485327772e-07,21
+"232","Capitán Prat",9.00063245298401e-05,21
+"233","Cardenal Caro",0,21
+"234","Cauquenes",1.98682155172492e-08,21
+"235","Cautín",0.000215974118934052,21
+"236","Provincia de Chacabuco",0,21
+"237","Chañaral",0,21
+"238","Chiloe",0.000103365629968266,21
+"239","Choapa",5.53972580853631e-07,21
+"240","Colchagua",2.10035409509146e-07,21
+"241","Provincia de Concepción",1.66893008923807e-07,21
+"242","Copiapó",1.2569687041786e-08,21
+"243","Provincia de Cordillera",4.69386563839436e-07,21
+"244","Coyhaique",0.000162921747250948,21
+"245","Curicó",1.6978292711139e-07,21
+"246","Diguillín",9.78509596016863e-07,21
+"247","El Loa",0,21
+"248","Provincia de Elqui",4.34808234818827e-07,21
+"249","General Carrera",3.6048715846055e-05,21
+"250","Huasco",5.8993315668396e-07,21
+"251","Iquique",1.92059414985124e-05,21
+"252","Isla de Pascua",NA,21
+"253","Itata",7.94728594044614e-08,21
+"254","Limarí",1.00805049753131e-06,21
+"255","Linares",1.4404455739303e-07,21
+"256","Llanquihue",0.000348851470055077,21
+"257","Los Andes",2.60670979770339e-06,21
+"258","Magallanes",0.000110125307712896,21
+"259","Provincia de Maipo",0,21
+"260","Malleco",0.000123962112371848,21
+"261","Marga Marga",0,21
+"262","Melipilla",0,21
+"263","Osorno",0.000181519737225244,21
+"264","Palena",0.000473048440583695,21
+"265","Parinacota",0,21
+"266","Petorca",0,21
+"267","Punilla",1.07288359174618e-07,21
+"268","Quillota",0,21
+"269","Ranco",0.000298779636068502,21
+"270","San Antonio",0,21
+"271","San Felipe",1.04308128356934e-07,21
+"272","Provincia de Santiago",4.84287744484391e-06,21
+"273","Talagante",0,21
+"274","Talca",6.20881726032252e-08,21
+"275","Tamarugal",8.09445770526222e-07,21
+"276","Tierra del Fuego",3.15209230475078e-05,21
+"277","Tocopilla",2.14667031237716e-06,21
+"278","Ultima Esperanza",0.000179477532509568,21
+"279","Valdivia",0.000225004885335996,21
+"280","Provincia de Valparaíso",0,21

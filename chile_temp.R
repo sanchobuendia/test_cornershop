@@ -42,13 +42,41 @@ grid.era
 
 
 rest <- data.frame(grid.era)
-names(rest)
 
-rest <- rest[,c("ADM3_ES", "ADM2_ES", "ADM1_ES",
+rest <- rest[,c("ADM2_ES",
                 "X2019.10.17", "X2019.10.18", "X2019.10.19",
                 "X2019.10.20", "X2019.10.21")]
-head(rest,3)
 
-write.csv(rest,"/Users/aurelianosancho/Documents/GitHub/teste_cornershop/chile_temp.csv")
+group_rest <- rest %>% group_by(ADM2_ES)
+
+group_rest = group_rest %>% summarise(
+  day_17 = mean(X2019.10.17, na.rm = T),
+  day_18 = mean(X2019.10.18, na.rm = T),
+  day_19 = mean(X2019.10.19, na.rm = T),
+  day_20 = mean(X2019.10.20, na.rm = T),
+  day_21 = mean(X2019.10.21, na.rm = T)
+)
+
+group_rest$ADM2_ES = str_replace(group_rest$ADM2_ES,"Santiago","Provincia de Santiago")
+group_rest$ADM2_ES = str_replace(group_rest$ADM2_ES,"Valparaíso","Provincia de Valparaíso")
+group_rest$ADM2_ES = str_replace(group_rest$ADM2_ES,"Chacabuco","Provincia de Chacabuco")
+group_rest$ADM2_ES = str_replace(group_rest$ADM2_ES,"Concepción","Provincia de Concepción")
+group_rest$ADM2_ES = str_replace(group_rest$ADM2_ES,"Elqui","Provincia de Elqui")
+group_rest$ADM2_ES = str_replace(group_rest$ADM2_ES,"Cordillera","Provincia de Cordillera")
+group_rest$ADM2_ES = str_replace(group_rest$ADM2_ES,"Maipo","Provincia de Maipo")
+
+res <- data.frame(county_origin=character(),
+                  temperature = double(),
+                  Date=integer(),
+                  stringsAsFactors=FALSE)
+for (i in 2:6){
+  df = group_rest[,c(1,i)]
+  df$Date <- 15+i
+  colnames(df) <- colnames(res)
+  res <- rbind(res, df)
+}
+
+
+write.csv(res,"/Users/aurelianosancho/Documents/GitHub/teste_cornershop/chile_temp.csv")
 
 
